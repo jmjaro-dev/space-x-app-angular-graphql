@@ -1,0 +1,23 @@
+{
+  "name": "space-x-app",
+  "version": "1.0.0",
+  "description": "A Space-X App using Angular for the frontend and GraphQL + express for the backend.",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "concurrently": "^5.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "ng serve --prefix client",
+    "dev": "concurrently \"npm run server\" \"ng serve --prefix client\""
+  },
+  "author": "Jerome Mico Jaropojop",
+  "license": "MIT"
+}
