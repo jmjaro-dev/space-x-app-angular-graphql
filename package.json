@@ -8,12 +8,24 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-graphql": "^0.12.0",
-    "graphql": "^15.4.0"
+    "graphql": "^15.4.0",
+    "@angular/cli": "^11.0.6",
+    "@angular/compiler-cli": "^11.0.9",
+    "typescript": "~4.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@angular/cli": "^11.0.6",
+    "@angular/compiler-cli": "^11.0.9"
+  },
   "scripts": {
     "start": "node server.js",
-    "server": "nodemon server.js"
+    "server": "nodemon server.js",
+    "build": "ng build",
+    "heroku-postbuild": "ng build --prod"
+  },
+  "engines": {
+    "node": "14.15.1",
+    "npm": "6.14.8"
   },
   "author": "Jerome Mico Jaropojop",
   "license": "MIT"
