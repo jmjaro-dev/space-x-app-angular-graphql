@@ -14,10 +14,10 @@ app.use('/graphql', graphqlHTTP({
   graphiql: true
 }));
 
-app.use(express.static(__dirname + 'dist/client'));
+app.use(express.static('dist/client'));
 
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname + 'dist/client/index.html'));
+  res.sendFile(path.resolve(__dirname, 'dist', 'client', '/index.html'));
 });
 
 const PORT = process.env.PORT || 5000;
