@@ -465,7 +465,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "GraphQLModule", function() { return GraphQLModule; });
 /* harmony import */ var _apollo_client_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @apollo/client/core */ "ALmS");
 
-const uri = 'http://localhost:5000/graphql';
+const uri = '/graphql';
 function createApollo(httpLink) {
     return {
         link: httpLink.create({ uri }),
