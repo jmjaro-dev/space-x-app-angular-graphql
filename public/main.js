@@ -204,7 +204,7 @@ __webpack_require__.r(__webpack_exports__);
  * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes,extraRequire}
  * tslint:disable
  */
-var styles = [".paginator[_ngcontent-%COMP%] {\n  width: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n  font-size: 10px;\n  text-transform: uppercase;\n  letter-spacing: 0.1em;\n  margin: 80px 0 30px 0;\n}\n.paginator[_ngcontent-%COMP%]   .limit[_ngcontent-%COMP%] {\n  margin-right: 20px;\n}\n.paginator[_ngcontent-%COMP%]   .limit[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\n  margin-right: 5px;\n  color: #757575;\n}\n.paginator[_ngcontent-%COMP%]   .limit[_ngcontent-%COMP%]   select[_ngcontent-%COMP%] {\n  color: -internal-light-dark(black, white);\n  font-size: 11px;\n  background-color: #000;\n  border-style: solid;\n  color: #fff;\n  padding: 2px;\n  border-color: #757575;\n}\n.paginator[_ngcontent-%COMP%]   .page-info[_ngcontent-%COMP%] {\n  margin: 0 10px;\n  color: #757575;\n}\n.paginator[_ngcontent-%COMP%]   .page-info[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\n  margin-left: 5px;\n  font-weight: 500;\n  color: #fff;\n}\n.paginator[_ngcontent-%COMP%]   button[_ngcontent-%COMP%] {\n  border: none !important;\n  background-color: #000;\n  color: #fff;\n  font-size: 20px;\n  font-weight: bold;\n  cursor: pointer;\n}\n.paginator[_ngcontent-%COMP%]   button[_ngcontent-%COMP%]:disabled {\n  color: #757575;\n  cursor: default;\n}\n.paginator[_ngcontent-%COMP%]   button[_ngcontent-%COMP%]:focus, .paginator[_ngcontent-%COMP%]   button[_ngcontent-%COMP%]:active {\n  border: none !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcLi5cXC4uXFwuLlxccGFnaW5hdG9yLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsV0FBQTtFQUNBLGFBQUE7RUFDQSxtQkFBQTtFQUNBLDJCQUFBO0VBQ0EsZUFBQTtFQUNBLHlCQUFBO0VBQ0EscUJBQUE7RUFDQSxxQkFBQTtBQUNGO0FBQ0U7RUFDRSxrQkFBQTtBQUNKO0FBQ0k7RUFDRSxpQkFBQTtFQUNBLGNBQUE7QUFDTjtBQUVJO0VBQ0UseUNBQUE7RUFDQSxlQUFBO0VBQ0Esc0JBQUE7RUFDQSxtQkFBQTtFQUNBLFdBQUE7RUFDQSxZQUFBO0VBQ0EscUJBQUE7QUFBTjtBQUlFO0VBQ0UsY0FBQTtFQUNBLGNBQUE7QUFGSjtBQUlJO0VBQ0UsZ0JBQUE7RUFDQSxnQkFBQTtFQUNBLFdBQUE7QUFGTjtBQU1FO0VBQ0UsdUJBQUE7RUFDQSxzQkFBQTtFQUNBLFdBQUE7RUFDQSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxlQUFBO0FBSko7QUFNSTtFQUNFLGNBQUE7RUFDQSxlQUFBO0FBSk47QUFPSTtFQUNFLHVCQUFBO0FBTE4iLCJmaWxlIjoicGFnaW5hdG9yLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnBhZ2luYXRvciB7XHJcbiAgd2lkdGg6IDEwMCU7XHJcbiAgZGlzcGxheTogZmxleDtcclxuICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG4gIGp1c3RpZnktY29udGVudDogZmxleC1zdGFydDtcclxuICBmb250LXNpemU6IDEwcHg7XHJcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxuICBsZXR0ZXItc3BhY2luZzogMC4xZW07XHJcbiAgbWFyZ2luOiA4MHB4IDAgMzBweCAwO1xyXG5cclxuICAubGltaXQge1xyXG4gICAgbWFyZ2luLXJpZ2h0OiAyMHB4O1xyXG4gICAgXHJcbiAgICBzcGFuIHtcclxuICAgICAgbWFyZ2luLXJpZ2h0OiA1cHg7XHJcbiAgICAgIGNvbG9yOiAjNzU3NTc1O1xyXG4gICAgfVxyXG5cclxuICAgIHNlbGVjdCB7XHJcbiAgICAgIGNvbG9yOiAtaW50ZXJuYWwtbGlnaHQtZGFyayhibGFjaywgd2hpdGUpO1xyXG4gICAgICBmb250LXNpemU6IDExcHg7XHJcbiAgICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDA7XHJcbiAgICAgIGJvcmRlci1zdHlsZTogc29saWQ7XHJcbiAgICAgIGNvbG9yOiAjZmZmO1xyXG4gICAgICBwYWRkaW5nOiAycHg7XHJcbiAgICAgIGJvcmRlci1jb2xvcjogIzc1NzU3NTtcclxuICAgIH1cclxuICB9XHJcblxyXG4gIC5wYWdlLWluZm8ge1xyXG4gICAgbWFyZ2luOiAwIDEwcHg7XHJcbiAgICBjb2xvcjogIzc1NzU3NTtcclxuXHJcbiAgICBzcGFuIHtcclxuICAgICAgbWFyZ2luLWxlZnQ6IDVweDtcclxuICAgICAgZm9udC13ZWlnaHQ6IDUwMDtcclxuICAgICAgY29sb3I6ICNmZmY7XHJcbiAgICB9XHJcbiAgfVxyXG5cclxuICBidXR0b24gIHtcclxuICAgIGJvcmRlcjogbm9uZSAhaW1wb3J0YW50O1xyXG4gICAgYmFja2dyb3VuZC1jb2xvcjogIzAwMDtcclxuICAgIGNvbG9yOiAjZmZmO1xyXG4gICAgZm9udC1zaXplOiAyMHB4O1xyXG4gICAgZm9udC13ZWlnaHQ6IGJvbGQ7XHJcbiAgICBjdXJzb3I6IHBvaW50ZXI7XHJcblxyXG4gICAgJjpkaXNhYmxlZCB7XHJcbiAgICAgIGNvbG9yOiAjNzU3NTc1O1xyXG4gICAgICBjdXJzb3I6IGRlZmF1bHQ7XHJcbiAgICB9XHJcblxyXG4gICAgJjpmb2N1cywgJjphY3RpdmUge1xyXG4gICAgICBib3JkZXI6IG5vbmUgIWltcG9ydGFudDtcclxuICAgIH1cclxuICB9XHJcbn0iXX0= */"];
+var styles = [".paginator[_ngcontent-%COMP%] {\n  width: 100%;\n  display: flex;\n  align-items: center;\n  justify-content: flex-start;\n  font-size: 10px;\n  text-transform: uppercase;\n  letter-spacing: 0.1em;\n  margin: 80px 0 30px 0;\n}\n.paginator[_ngcontent-%COMP%]   .limit[_ngcontent-%COMP%] {\n  margin-right: 20px;\n}\n.paginator[_ngcontent-%COMP%]   .limit[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\n  margin-right: 5px;\n  color: #757575;\n}\n.paginator[_ngcontent-%COMP%]   .limit[_ngcontent-%COMP%]   select[_ngcontent-%COMP%] {\n  color: -internal-light-dark(black, white);\n  font-size: 11px;\n  background-color: #000;\n  border-style: solid;\n  color: #fff;\n  padding: 2px;\n  border-color: #757575;\n}\n.paginator[_ngcontent-%COMP%]   .page-info[_ngcontent-%COMP%] {\n  margin: 0 10px;\n  color: #757575;\n}\n.paginator[_ngcontent-%COMP%]   .page-info[_ngcontent-%COMP%]   span[_ngcontent-%COMP%] {\n  margin-left: 5px;\n  font-weight: 500;\n  color: #fff;\n}\n.paginator[_ngcontent-%COMP%]   .buttons[_ngcontent-%COMP%] {\n  border: none !important;\n  background-color: #000;\n  color: #fff;\n  font-size: 20px;\n  font-weight: bold;\n  cursor: pointer;\n}\n.paginator[_ngcontent-%COMP%]   .buttons[_ngcontent-%COMP%]:disabled {\n  color: #757575;\n  cursor: default;\n}\n.paginator[_ngcontent-%COMP%]   .buttons[_ngcontent-%COMP%]:focus, .paginator[_ngcontent-%COMP%]   .buttons[_ngcontent-%COMP%]:active {\n  border: none !important;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcLi5cXC4uXFwuLlxccGFnaW5hdG9yLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsV0FBQTtFQUNBLGFBQUE7RUFDQSxtQkFBQTtFQUNBLDJCQUFBO0VBQ0EsZUFBQTtFQUNBLHlCQUFBO0VBQ0EscUJBQUE7RUFDQSxxQkFBQTtBQUNGO0FBQ0U7RUFDRSxrQkFBQTtBQUNKO0FBQ0k7RUFDRSxpQkFBQTtFQUNBLGNBQUE7QUFDTjtBQUVJO0VBQ0UseUNBQUE7RUFDQSxlQUFBO0VBQ0Esc0JBQUE7RUFDQSxtQkFBQTtFQUNBLFdBQUE7RUFDQSxZQUFBO0VBQ0EscUJBQUE7QUFBTjtBQUlFO0VBQ0UsY0FBQTtFQUNBLGNBQUE7QUFGSjtBQUlJO0VBQ0UsZ0JBQUE7RUFDQSxnQkFBQTtFQUNBLFdBQUE7QUFGTjtBQU1FO0VBQ0UsdUJBQUE7RUFDQSxzQkFBQTtFQUNBLFdBQUE7RUFDQSxlQUFBO0VBQ0EsaUJBQUE7RUFDQSxlQUFBO0FBSko7QUFNSTtFQUNFLGNBQUE7RUFDQSxlQUFBO0FBSk47QUFPSTtFQUNFLHVCQUFBO0FBTE4iLCJmaWxlIjoicGFnaW5hdG9yLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLnBhZ2luYXRvciB7XHJcbiAgd2lkdGg6IDEwMCU7XHJcbiAgZGlzcGxheTogZmxleDtcclxuICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG4gIGp1c3RpZnktY29udGVudDogZmxleC1zdGFydDtcclxuICBmb250LXNpemU6IDEwcHg7XHJcbiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxuICBsZXR0ZXItc3BhY2luZzogMC4xZW07XHJcbiAgbWFyZ2luOiA4MHB4IDAgMzBweCAwO1xyXG5cclxuICAubGltaXQge1xyXG4gICAgbWFyZ2luLXJpZ2h0OiAyMHB4O1xyXG4gICAgXHJcbiAgICBzcGFuIHtcclxuICAgICAgbWFyZ2luLXJpZ2h0OiA1cHg7XHJcbiAgICAgIGNvbG9yOiAjNzU3NTc1O1xyXG4gICAgfVxyXG5cclxuICAgIHNlbGVjdCB7XHJcbiAgICAgIGNvbG9yOiAtaW50ZXJuYWwtbGlnaHQtZGFyayhibGFjaywgd2hpdGUpO1xyXG4gICAgICBmb250LXNpemU6IDExcHg7XHJcbiAgICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDA7XHJcbiAgICAgIGJvcmRlci1zdHlsZTogc29saWQ7XHJcbiAgICAgIGNvbG9yOiAjZmZmO1xyXG4gICAgICBwYWRkaW5nOiAycHg7XHJcbiAgICAgIGJvcmRlci1jb2xvcjogIzc1NzU3NTtcclxuICAgIH1cclxuICB9XHJcblxyXG4gIC5wYWdlLWluZm8ge1xyXG4gICAgbWFyZ2luOiAwIDEwcHg7XHJcbiAgICBjb2xvcjogIzc1NzU3NTtcclxuXHJcbiAgICBzcGFuIHtcclxuICAgICAgbWFyZ2luLWxlZnQ6IDVweDtcclxuICAgICAgZm9udC13ZWlnaHQ6IDUwMDtcclxuICAgICAgY29sb3I6ICNmZmY7XHJcbiAgICB9XHJcbiAgfVxyXG5cclxuICAuYnV0dG9ucyAge1xyXG4gICAgYm9yZGVyOiBub25lICFpbXBvcnRhbnQ7XHJcbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDAwO1xyXG4gICAgY29sb3I6ICNmZmY7XHJcbiAgICBmb250LXNpemU6IDIwcHg7XHJcbiAgICBmb250LXdlaWdodDogYm9sZDtcclxuICAgIGN1cnNvcjogcG9pbnRlcjtcclxuXHJcbiAgICAmOmRpc2FibGVkIHtcclxuICAgICAgY29sb3I6ICM3NTc1NzU7XHJcbiAgICAgIGN1cnNvcjogZGVmYXVsdDtcclxuICAgIH1cclxuXHJcbiAgICAmOmZvY3VzLCAmOmFjdGl2ZSB7XHJcbiAgICAgIGJvcmRlcjogbm9uZSAhaW1wb3J0YW50O1xyXG4gICAgfVxyXG4gIH1cclxufSJdfQ== */"];
 
 
 
@@ -263,27 +263,15 @@ const CAPSULES_QUERY = apollo_angular__WEBPACK_IMPORTED_MODULE_0__["gql"] `
     }
   }
 `;
-// const CAPSULES_QUERY = gql `
-//   query GetCapsules{
-//     capsules{
-//       id,
-//       serial,
-//       status,
-//       type,
-//       launches
-//     }
-//   }
-// `;
 class CapsulesComponent {
     constructor(apollo) {
         this.apollo = apollo;
         this.loading = true;
+        // pagination variables
+        this.page = 1;
         this.itemsPerPage = 5;
     }
     ngOnInit() {
-        if (!this.page) {
-            this.page = 1;
-        }
         this.querySubscription = this.apollo.watchQuery({
             query: CAPSULES_QUERY,
             variables: {
@@ -303,11 +291,30 @@ class CapsulesComponent {
         this.hasNextPage = data.capsules.hasNextPage;
         this.totalPages = data.capsules.totalPages;
         this.totalDocs = data.capsules.totalDocs;
+        if (this.page > this.totalPages) {
+            this.page = this.totalPages;
+            this.updateData();
+        }
+    }
+    updateData() {
+        this.loading = true;
+        this.querySubscription = this.apollo.watchQuery({
+            query: CAPSULES_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.capsules = data.capsules.docs;
+            this.updatePaginatorValues(data);
+        });
     }
     changeLimit(newLimit) {
         this.itemsPerPage = newLimit;
         this.loading = true;
-        this.page = 1;
         this.querySubscription = this.apollo.watchQuery({
             query: CAPSULES_QUERY,
             variables: {
@@ -342,6 +349,40 @@ class CapsulesComponent {
     prevPage() {
         this.loading = true;
         this.page--;
+        this.querySubscription = this.apollo.watchQuery({
+            query: CAPSULES_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.capsules = data.capsules.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    firstPage() {
+        this.loading = true;
+        this.page = 1;
+        this.querySubscription = this.apollo.watchQuery({
+            query: CAPSULES_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.capsules = data.capsules.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    lastPage() {
+        this.loading = true;
+        this.page = this.totalPages;
         this.querySubscription = this.apollo.watchQuery({
             query: CAPSULES_QUERY,
             variables: {
@@ -596,8 +637,25 @@ class RocketitemComponent {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ScrollToTopComponent", function() { return ScrollToTopComponent; });
 class ScrollToTopComponent {
-    constructor() { }
+    constructor() {
+        this.show = false;
+    }
+    onWindowScroll() {
+        this.updateScrolled();
+    }
     ngOnInit() {
+    }
+    updateScrolled() {
+        this.fromTop = window.scrollY;
+        this.winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+        this.height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        this.scrolled = (this.winScroll / this.height) * 100;
+        if (this.scrolled > 22) {
+            this.show = true;
+        }
+        else {
+            this.show = false;
+        }
     }
     scrollToTop() {
         window.scrollTo(0, 0);
@@ -672,7 +730,7 @@ __webpack_require__.r(__webpack_exports__);
  * @suppress {suspiciousCode,uselessCode,missingProperties,missingOverride,checkTypes,extraRequire}
  * tslint:disable
  */
-var styles = [".app-header[_ngcontent-%COMP%] {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  width: 100%;\n  height: 150px;\n  margin-bottom: 50px;\n}\n.app-header[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\n  margin: 30px 0 50px 0;\n  width: 300px;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%] {\n  position: relative;\n  width: 80%;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%] {\n  list-style-type: none;\n  display: flex;\n  justify-content: space-between;\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%] {\n    display: none;\n  }\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%] {\n    display: none;\n  }\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {\n  color: #757575;\n  font-size: 13px;\n  font-weight: 500;\n  letter-spacing: 0.1em;\n  text-transform: uppercase;\n  text-decoration: none;\n  transition: color 0.2s ease-in-out;\n  cursor: pointer;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a.active[_ngcontent-%COMP%] {\n  color: #fff;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover {\n  color: #fff;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .open-trigger[_ngcontent-%COMP%] {\n  position: absolute;\n  top: 0;\n  right: 0;\n  cursor: pointer;\n  display: none;\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .open-trigger[_ngcontent-%COMP%] {\n    display: block;\n  }\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .close-trigger[_ngcontent-%COMP%] {\n  cursor: pointer;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-close-trigger[_ngcontent-%COMP%] {\n  position: fixed;\n  top: 0;\n  right: 0;\n  left: 0;\n  bottom: 0;\n  display: none;\n  z-index: 2;\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-close-trigger.open[_ngcontent-%COMP%] {\n    display: block;\n  }\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-close-trigger.close[_ngcontent-%COMP%] {\n    display: none;\n  }\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg[_ngcontent-%COMP%] {\n  position: fixed;\n  top: 0;\n  width: 360px;\n  height: 100vh;\n  background-color: #000;\n  right: -360px;\n  border-left: 2px solid rgba(255, 255, 255, 0.5);\n  z-index: 3;\n  transition: right 0.25s ease-in-out;\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg.open[_ngcontent-%COMP%] {\n    right: 0;\n  }\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg.close[_ngcontent-%COMP%] {\n    right: -360px;\n  }\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%] {\n  display: block;\n  height: 100%;\n  position: fixed;\n  width: 200px;\n  top: 116px;\n  right: -100%;\n  z-index: 5;\n  transition: right 0.25s ease-in-out;\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav.open[_ngcontent-%COMP%] {\n    right: 10%;\n  }\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav.close[_ngcontent-%COMP%] {\n    right: -100%;\n  }\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%] {\n  list-style-type: none;\n  align-items: center;\n  justify-content: space-between;\n  text-align: right;\n  border-bottom: 1px solid #333;\n  padding-bottom: 10px;\n  margin-bottom: 10px;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {\n  color: #757575;\n  font-size: 13px;\n  font-weight: 500;\n  letter-spacing: 0.1em;\n  text-transform: uppercase;\n  text-decoration: none;\n  transition: color 0.2s ease-in-out;\n  cursor: pointer;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a.active[_ngcontent-%COMP%] {\n  color: #fff;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover {\n  color: #fff;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:first-child, .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:last-child {\n  border-bottom: none;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcLi5cXC4uXFwuLlxcaGVhZGVyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsYUFBQTtFQUNBLHNCQUFBO0VBQ0EsbUJBQUE7RUFDQSxXQUFBO0VBQ0EsYUFBQTtFQUNBLG1CQUFBO0FBQ0Y7QUFDRTtFQUNFLHFCQUFBO0VBQ0EsWUFBQTtBQUNKO0FBRUU7RUFDRSxrQkFBQTtFQUNBLFVBQUE7QUFBSjtBQUVJO0VBQ0UscUJBQUE7RUFDQSxhQUFBO0VBQ0EsOEJBQUE7QUFBTjtBQUVNO0VBTEY7SUFNSSxhQUFBO0VBQ047QUFDRjtBQUVRO0VBREY7SUFFSSxhQUFBO0VBQ1I7QUFDRjtBQUNRO0VBQ0UsY0FBQTtFQUNBLGVBQUE7RUFDQSxnQkFBQTtFQUNBLHFCQUFBO0VBQ0EseUJBQUE7RUFDQSxxQkFBQTtFQUNBLGtDQUFBO0VBQ0EsZUFBQTtBQUNWO0FBQ1U7RUFDRSxXQUFBO0FBQ1o7QUFFVTtFQUNFLFdBQUE7QUFBWjtBQU1JO0VBQ0Usa0JBQUE7RUFDQSxNQUFBO0VBQ0EsUUFBQTtFQUNBLGVBQUE7RUFDQSxhQUFBO0FBSk47QUFNTTtFQVBGO0lBUUksY0FBQTtFQUhOO0FBQ0Y7QUFNSTtFQUNFLGVBQUE7QUFKTjtBQU9JO0VBQ0UsZUFBQTtFQUNBLE1BQUE7RUFDQSxRQUFBO0VBQ0EsT0FBQTtFQUNBLFNBQUE7RUFDQSxhQUFBO0VBQ0EsVUFBQTtBQUxOO0FBT007RUFDRTtJQUNFLGNBQUE7RUFMUjtFQVFNO0lBQ0UsYUFBQTtFQU5SO0FBQ0Y7QUFVSTtFQUNFLGVBQUE7RUFDQSxNQUFBO0VBQ0EsWUFBQTtFQUNBLGFBQUE7RUFDQSxzQkFBQTtFQUNBLGFBQUE7RUFDQSwrQ0FBQTtFQUNBLFVBQUE7RUFDQSxtQ0FBQTtBQVJOO0FBVU07RUFDRTtJQUNFLFFBQUE7RUFSUjtFQVdNO0lBQ0UsYUFBQTtFQVRSO0FBQ0Y7QUFhSTtFQUNFLGNBQUE7RUFDQSxZQUFBO0VBQ0EsZUFBQTtFQUNBLFlBQUE7RUFDQSxVQUFBO0VBQ0EsWUFBQTtFQUNBLFVBQUE7RUFDQSxtQ0FBQTtBQVhOO0FBYU07RUFDRTtJQUNFLFVBQUE7RUFYUjtFQWNNO0lBQ0UsWUFBQTtFQVpSO0FBQ0Y7QUFlTTtFQUNFLHFCQUFBO0VBQ0EsbUJBQUE7RUFDQSw4QkFBQTtFQUNBLGlCQUFBO0VBQ0EsNkJBQUE7RUFDQSxvQkFBQTtFQUNBLG1CQUFBO0FBYlI7QUFlUTtFQUNFLGNBQUE7RUFDQSxlQUFBO0VBQ0EsZ0JBQUE7RUFDQSxxQkFBQTtFQUNBLHlCQUFBO0VBQ0EscUJBQUE7RUFDQSxrQ0FBQTtFQUNBLGVBQUE7QUFiVjtBQWVVO0VBQ0UsV0FBQTtBQWJaO0FBZ0JVO0VBQ0UsV0FBQTtBQWRaO0FBa0JRO0VBQ0UsbUJBQUE7QUFoQlYiLCJmaWxlIjoiaGVhZGVyLmNvbXBvbmVudC5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiLmFwcC1oZWFkZXIge1xyXG4gIGRpc3BsYXk6IGZsZXg7XHJcbiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjtcclxuICBhbGlnbi1pdGVtczogY2VudGVyO1xyXG4gIHdpZHRoOiAxMDAlO1xyXG4gIGhlaWdodDogMTUwcHg7XHJcbiAgbWFyZ2luLWJvdHRvbTogNTBweDtcclxuXHJcbiAgaW1nIHtcclxuICAgIG1hcmdpbjogMzBweCAwIDUwcHggMDtcclxuICAgIHdpZHRoOiAzMDBweDtcclxuICB9XHJcbiAgXHJcbiAgbmF2IHtcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgIHdpZHRoOiA4MCU7XHJcblxyXG4gICAgLm1haW4tbmF2IHtcclxuICAgICAgbGlzdC1zdHlsZS10eXBlOiBub25lO1xyXG4gICAgICBkaXNwbGF5OiBmbGV4O1xyXG4gICAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWJldHdlZW47XHJcbiAgICAgIFxyXG4gICAgICBAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDk1MHB4KXtcclxuICAgICAgICBkaXNwbGF5OiBub25lO1xyXG4gICAgICB9XHJcblxyXG4gICAgICBsaSB7XHJcbiAgICAgICAgQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA5NTBweCl7XHJcbiAgICAgICAgICBkaXNwbGF5OiBub25lO1xyXG4gICAgICAgIH1cclxuXHJcbiAgICAgICAgYSB7XHJcbiAgICAgICAgICBjb2xvcjogIzc1NzU3NTtcclxuICAgICAgICAgIGZvbnQtc2l6ZTogMTNweDtcclxuICAgICAgICAgIGZvbnQtd2VpZ2h0OiA1MDA7XHJcbiAgICAgICAgICBsZXR0ZXItc3BhY2luZzogMC4xZW07XHJcbiAgICAgICAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xyXG4gICAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lO1xyXG4gICAgICAgICAgdHJhbnNpdGlvbjogY29sb3IgMC4ycyBlYXNlLWluLW91dDtcclxuICAgICAgICAgIGN1cnNvcjogcG9pbnRlcjtcclxuXHJcbiAgICAgICAgICAmLmFjdGl2ZSB7XHJcbiAgICAgICAgICAgIGNvbG9yOiAjZmZmO1xyXG4gICAgICAgICAgfVxyXG5cclxuICAgICAgICAgICY6aG92ZXIge1xyXG4gICAgICAgICAgICBjb2xvcjogI2ZmZjtcclxuICAgICAgICAgIH1cclxuICAgICAgICB9XHJcbiAgICAgIH1cclxuICAgIH0gICBcclxuICAgIFxyXG4gICAgLm9wZW4tdHJpZ2dlciB7XHJcbiAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICAgICAgdG9wOiAwO1xyXG4gICAgICByaWdodDogMDtcclxuICAgICAgY3Vyc29yOiBwb2ludGVyO1xyXG4gICAgICBkaXNwbGF5OiBub25lO1xyXG5cclxuICAgICAgQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA5NTBweCl7XHJcbiAgICAgICAgZGlzcGxheTogYmxvY2s7XHJcbiAgICAgIH1cclxuICAgIH1cclxuXHJcbiAgICAuY2xvc2UtdHJpZ2dlciB7XHJcbiAgICAgIGN1cnNvcjogcG9pbnRlcjtcclxuICAgIH1cclxuXHJcbiAgICAuc2lkZS1uYXYtY2xvc2UtdHJpZ2dlciB7XHJcbiAgICAgIHBvc2l0aW9uOiBmaXhlZDtcclxuICAgICAgdG9wOiAwO1xyXG4gICAgICByaWdodDogMDtcclxuICAgICAgbGVmdDogMDtcclxuICAgICAgYm90dG9tOiAwO1xyXG4gICAgICBkaXNwbGF5OiBub25lO1xyXG4gICAgICB6LWluZGV4OiAyO1xyXG5cclxuICAgICAgQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA5NTBweCl7XHJcbiAgICAgICAgJi5vcGVuIHtcclxuICAgICAgICAgIGRpc3BsYXk6IGJsb2NrO1xyXG4gICAgICAgIH1cclxuXHJcbiAgICAgICAgJi5jbG9zZSB7XHJcbiAgICAgICAgICBkaXNwbGF5OiBub25lO1xyXG4gICAgICAgIH1cclxuICAgICAgfVxyXG4gICAgfVxyXG5cclxuICAgIC5zaWRlLW5hdi1iZyB7XHJcbiAgICAgIHBvc2l0aW9uOiBmaXhlZDtcclxuICAgICAgdG9wOiAwO1xyXG4gICAgICB3aWR0aDogMzYwcHg7XHJcbiAgICAgIGhlaWdodDogMTAwdmg7XHJcbiAgICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDA7XHJcbiAgICAgIHJpZ2h0OiAtMzYwcHg7XHJcbiAgICAgIGJvcmRlci1sZWZ0OiAycHggc29saWQgcmdiYSgkY29sb3I6ICNmZmYsICRhbHBoYTogMC41KTtcclxuICAgICAgei1pbmRleDogMztcclxuICAgICAgdHJhbnNpdGlvbjogcmlnaHQgMC4yNXMgZWFzZS1pbi1vdXQ7XHJcblxyXG4gICAgICBAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDk1MHB4KXtcclxuICAgICAgICAmLm9wZW4ge1xyXG4gICAgICAgICAgcmlnaHQ6IDA7XHJcbiAgICAgICAgfVxyXG5cclxuICAgICAgICAmLmNsb3NlIHtcclxuICAgICAgICAgIHJpZ2h0OiAtMzYwcHg7XHJcbiAgICAgICAgfVxyXG4gICAgICB9XHJcbiAgICB9XHJcblxyXG4gICAgLnNpZGUtbmF2IHtcclxuICAgICAgZGlzcGxheTogYmxvY2s7XHJcbiAgICAgIGhlaWdodDogMTAwJTtcclxuICAgICAgcG9zaXRpb246IGZpeGVkO1xyXG4gICAgICB3aWR0aDogMjAwcHg7XHJcbiAgICAgIHRvcDogMTE2cHg7XHJcbiAgICAgIHJpZ2h0OiAtMTAwJTtcclxuICAgICAgei1pbmRleDogNTtcclxuICAgICAgdHJhbnNpdGlvbjogcmlnaHQgMC4yNXMgZWFzZS1pbi1vdXQ7XHJcbiAgXHJcbiAgICAgIEBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogOTUwcHgpe1xyXG4gICAgICAgICYub3BlbiB7XHJcbiAgICAgICAgICByaWdodDogMTAlO1xyXG4gICAgICAgIH1cclxuXHJcbiAgICAgICAgJi5jbG9zZSB7XHJcbiAgICAgICAgICByaWdodDogLTEwMCU7XHJcbiAgICAgICAgfVxyXG4gICAgICB9XHJcblxyXG4gICAgICBsaSB7XHJcbiAgICAgICAgbGlzdC1zdHlsZS10eXBlOiBub25lO1xyXG4gICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7XHJcbiAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuO1xyXG4gICAgICAgIHRleHQtYWxpZ246IHJpZ2h0O1xyXG4gICAgICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjMzMzO1xyXG4gICAgICAgIHBhZGRpbmctYm90dG9tOiAxMHB4O1xyXG4gICAgICAgIG1hcmdpbi1ib3R0b206IDEwcHg7XHJcblxyXG4gICAgICAgIGEge1xyXG4gICAgICAgICAgY29sb3I6ICM3NTc1NzU7XHJcbiAgICAgICAgICBmb250LXNpemU6IDEzcHg7XHJcbiAgICAgICAgICBmb250LXdlaWdodDogNTAwO1xyXG4gICAgICAgICAgbGV0dGVyLXNwYWNpbmc6IDAuMWVtO1xyXG4gICAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxuICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcclxuICAgICAgICAgIHRyYW5zaXRpb246IGNvbG9yIDAuMnMgZWFzZS1pbi1vdXQ7XHJcbiAgICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XHJcblxyXG4gICAgICAgICAgJi5hY3RpdmUge1xyXG4gICAgICAgICAgICBjb2xvcjogI2ZmZjtcclxuICAgICAgICAgIH1cclxuXHJcbiAgICAgICAgICAmOmhvdmVyIHtcclxuICAgICAgICAgICAgY29sb3I6ICNmZmY7XHJcbiAgICAgICAgICB9XHJcbiAgICAgICAgfVxyXG4gICAgICAgIFxyXG4gICAgICAgICY6Zmlyc3QtY2hpbGQsICY6bGFzdC1jaGlsZCB7XHJcbiAgICAgICAgICBib3JkZXItYm90dG9tOiBub25lO1xyXG4gICAgICAgIH1cclxuICAgICAgfVxyXG4gICAgfVxyXG4gIH0gICBcclxufSJdfQ== */"];
+var styles = [".app-header[_ngcontent-%COMP%] {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  width: 100%;\n  height: 150px;\n  margin-bottom: 50px;\n  position: relative;\n}\n.app-header[_ngcontent-%COMP%]   img[_ngcontent-%COMP%] {\n  margin: 30px 0 50px 0;\n  width: 300px;\n}\n.app-header[_ngcontent-%COMP%]   .open-trigger[_ngcontent-%COMP%] {\n  position: absolute;\n  top: 50px;\n  right: 5%;\n  cursor: pointer;\n  display: none;\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   .open-trigger[_ngcontent-%COMP%] {\n    display: block;\n  }\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%] {\n  position: relative;\n  width: 80%;\n  height: 100vh;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%] {\n  list-style-type: none;\n  display: flex;\n  justify-content: space-between;\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%] {\n    display: none;\n  }\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%] {\n    display: none;\n  }\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {\n  color: #757575;\n  font-size: 13px;\n  font-weight: 500;\n  letter-spacing: 0.1em;\n  text-transform: uppercase;\n  text-decoration: none;\n  transition: color 0.2s ease-in-out;\n  cursor: pointer;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a.active[_ngcontent-%COMP%] {\n  color: #fff;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .main-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover {\n  color: #fff;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .close-trigger-container[_ngcontent-%COMP%] {\n  position: relative;\n  text-align: right;\n  padding-right: 10%;\n  top: 50px;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .close-trigger-container[_ngcontent-%COMP%]   .close-trigger[_ngcontent-%COMP%] {\n  cursor: pointer;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-close-trigger[_ngcontent-%COMP%] {\n  position: fixed;\n  top: 0;\n  right: 0;\n  left: 0;\n  bottom: 0;\n  display: none;\n  z-index: 2;\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-close-trigger.open[_ngcontent-%COMP%] {\n    display: block;\n  }\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-close-trigger.close[_ngcontent-%COMP%] {\n    display: none;\n  }\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg[_ngcontent-%COMP%] {\n  position: fixed;\n  top: 0;\n  width: 360px;\n  height: 100%;\n  background-color: #000;\n  right: -360px;\n  border-left: 2px solid rgba(255, 255, 255, 0.5);\n  z-index: 3;\n  transition: right 0.25s ease-in-out;\n  overflow-y: scroll;\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg.open[_ngcontent-%COMP%] {\n    right: 0;\n  }\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg.close[_ngcontent-%COMP%] {\n    right: -360px;\n  }\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%] {\n  display: block;\n  height: 100%;\n  position: relative;\n  width: 90%;\n  padding: 0 0 0 10%;\n  top: 66px;\n  right: -100%;\n  z-index: 5;\n  transition: right 0.25s ease-in-out;\n}\n@media only screen and (max-width: 950px) {\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg[_ngcontent-%COMP%]   .side-nav.open[_ngcontent-%COMP%] {\n    right: 0;\n  }\n  .app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg[_ngcontent-%COMP%]   .side-nav.close[_ngcontent-%COMP%] {\n    right: -100%;\n  }\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%] {\n  list-style-type: none;\n  align-items: center;\n  justify-content: space-between;\n  text-align: right;\n  border-bottom: 1px solid #333;\n  padding-bottom: 10px;\n  margin-bottom: 10px;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%] {\n  color: #757575;\n  font-size: 13px;\n  font-weight: 500;\n  letter-spacing: 0.1em;\n  text-transform: uppercase;\n  text-decoration: none;\n  transition: color 0.2s ease-in-out;\n  cursor: pointer;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a.active[_ngcontent-%COMP%] {\n  color: #fff;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]   a[_ngcontent-%COMP%]:hover {\n  color: #fff;\n}\n.app-header[_ngcontent-%COMP%]   nav[_ngcontent-%COMP%]   .side-nav-bg[_ngcontent-%COMP%]   .side-nav[_ngcontent-%COMP%]   li[_ngcontent-%COMP%]:last-child {\n  border-bottom: none;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uXFwuLlxcLi5cXC4uXFwuLlxcaGVhZGVyLmNvbXBvbmVudC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0UsYUFBQTtFQUNBLHNCQUFBO0VBQ0EsbUJBQUE7RUFDQSxXQUFBO0VBQ0EsYUFBQTtFQUNBLG1CQUFBO0VBQ0Esa0JBQUE7QUFDRjtBQUNFO0VBQ0UscUJBQUE7RUFDQSxZQUFBO0FBQ0o7QUFFRTtFQUNFLGtCQUFBO0VBQ0EsU0FBQTtFQUNBLFNBQUE7RUFDQSxlQUFBO0VBQ0EsYUFBQTtBQUFKO0FBRUk7RUFQRjtJQVFJLGNBQUE7RUFDSjtBQUNGO0FBRUU7RUFDRSxrQkFBQTtFQUNBLFVBQUE7RUFDQSxhQUFBO0FBQUo7QUFFSTtFQUNFLHFCQUFBO0VBQ0EsYUFBQTtFQUNBLDhCQUFBO0FBQU47QUFFTTtFQUxGO0lBTUksYUFBQTtFQUNOO0FBQ0Y7QUFFUTtFQURGO0lBRUksYUFBQTtFQUNSO0FBQ0Y7QUFDUTtFQUNFLGNBQUE7RUFDQSxlQUFBO0VBQ0EsZ0JBQUE7RUFDQSxxQkFBQTtFQUNBLHlCQUFBO0VBQ0EscUJBQUE7RUFDQSxrQ0FBQTtFQUNBLGVBQUE7QUFDVjtBQUNVO0VBQ0UsV0FBQTtBQUNaO0FBRVU7RUFDRSxXQUFBO0FBQVo7QUFNSTtFQUNFLGtCQUFBO0VBQ0EsaUJBQUE7RUFDQSxrQkFBQTtFQUNBLFNBQUE7QUFKTjtBQU1NO0VBQ0UsZUFBQTtBQUpSO0FBUUk7RUFDRSxlQUFBO0VBQ0EsTUFBQTtFQUNBLFFBQUE7RUFDQSxPQUFBO0VBQ0EsU0FBQTtFQUNBLGFBQUE7RUFDQSxVQUFBO0FBTk47QUFRTTtFQUNFO0lBQ0UsY0FBQTtFQU5SO0VBU007SUFDRSxhQUFBO0VBUFI7QUFDRjtBQVdJO0VBQ0UsZUFBQTtFQUNBLE1BQUE7RUFDQSxZQUFBO0VBQ0EsWUFBQTtFQUNBLHNCQUFBO0VBQ0EsYUFBQTtFQUNBLCtDQUFBO0VBQ0EsVUFBQTtFQUNBLG1DQUFBO0VBQ0Esa0JBQUE7QUFUTjtBQVdNO0VBQ0U7SUFDRSxRQUFBO0VBVFI7RUFZTTtJQUNFLGFBQUE7RUFWUjtBQUNGO0FBYU07RUFDRSxjQUFBO0VBQ0EsWUFBQTtFQUNBLGtCQUFBO0VBQ0EsVUFBQTtFQUNBLGtCQUFBO0VBQ0EsU0FBQTtFQUNBLFlBQUE7RUFDQSxVQUFBO0VBQ0EsbUNBQUE7QUFYUjtBQWFRO0VBQ0U7SUFDRSxRQUFBO0VBWFY7RUFjUTtJQUNFLFlBQUE7RUFaVjtBQUNGO0FBZVE7RUFDRSxxQkFBQTtFQUNBLG1CQUFBO0VBQ0EsOEJBQUE7RUFDQSxpQkFBQTtFQUNBLDZCQUFBO0VBQ0Esb0JBQUE7RUFDQSxtQkFBQTtBQWJWO0FBZVU7RUFDRSxjQUFBO0VBQ0EsZUFBQTtFQUNBLGdCQUFBO0VBQ0EscUJBQUE7RUFDQSx5QkFBQTtFQUNBLHFCQUFBO0VBQ0Esa0NBQUE7RUFDQSxlQUFBO0FBYlo7QUFlWTtFQUNFLFdBQUE7QUFiZDtBQWdCWTtFQUNFLFdBQUE7QUFkZDtBQWtCVTtFQUNFLG1CQUFBO0FBaEJaIiwiZmlsZSI6ImhlYWRlci5jb21wb25lbnQuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi5hcHAtaGVhZGVyIHtcclxuICBkaXNwbGF5OiBmbGV4O1xyXG4gIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47XHJcbiAgYWxpZ24taXRlbXM6IGNlbnRlcjtcclxuICB3aWR0aDogMTAwJTtcclxuICBoZWlnaHQ6IDE1MHB4O1xyXG4gIG1hcmdpbi1ib3R0b206IDUwcHg7XHJcbiAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG5cclxuICBpbWcge1xyXG4gICAgbWFyZ2luOiAzMHB4IDAgNTBweCAwO1xyXG4gICAgd2lkdGg6IDMwMHB4O1xyXG4gIH1cclxuICBcclxuICAub3Blbi10cmlnZ2VyIHtcclxuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICAgIHRvcDogNTBweDtcclxuICAgIHJpZ2h0OiA1JTtcclxuICAgIGN1cnNvcjogcG9pbnRlcjtcclxuICAgIGRpc3BsYXk6IG5vbmU7XHJcblxyXG4gICAgQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA5NTBweCl7XHJcbiAgICAgIGRpc3BsYXk6IGJsb2NrO1xyXG4gICAgfVxyXG4gIH1cclxuXHJcbiAgbmF2IHtcclxuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgIHdpZHRoOiA4MCU7XHJcbiAgICBoZWlnaHQ6IDEwMHZoO1xyXG5cclxuICAgIC5tYWluLW5hdiB7XHJcbiAgICAgIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTtcclxuICAgICAgZGlzcGxheTogZmxleDtcclxuICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuO1xyXG4gICAgICBcclxuICAgICAgQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA5NTBweCl7XHJcbiAgICAgICAgZGlzcGxheTogbm9uZTtcclxuICAgICAgfVxyXG5cclxuICAgICAgbGkge1xyXG4gICAgICAgIEBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogOTUwcHgpe1xyXG4gICAgICAgICAgZGlzcGxheTogbm9uZTtcclxuICAgICAgICB9XHJcblxyXG4gICAgICAgIGEge1xyXG4gICAgICAgICAgY29sb3I6ICM3NTc1NzU7XHJcbiAgICAgICAgICBmb250LXNpemU6IDEzcHg7XHJcbiAgICAgICAgICBmb250LXdlaWdodDogNTAwO1xyXG4gICAgICAgICAgbGV0dGVyLXNwYWNpbmc6IDAuMWVtO1xyXG4gICAgICAgICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcclxuICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTtcclxuICAgICAgICAgIHRyYW5zaXRpb246IGNvbG9yIDAuMnMgZWFzZS1pbi1vdXQ7XHJcbiAgICAgICAgICBjdXJzb3I6IHBvaW50ZXI7XHJcblxyXG4gICAgICAgICAgJi5hY3RpdmUge1xyXG4gICAgICAgICAgICBjb2xvcjogI2ZmZjtcclxuICAgICAgICAgIH1cclxuXHJcbiAgICAgICAgICAmOmhvdmVyIHtcclxuICAgICAgICAgICAgY29sb3I6ICNmZmY7XHJcbiAgICAgICAgICB9XHJcbiAgICAgICAgfVxyXG4gICAgICB9XHJcbiAgICB9ICAgXHJcblxyXG4gICAgLmNsb3NlLXRyaWdnZXItY29udGFpbmVyIHtcclxuICAgICAgcG9zaXRpb246IHJlbGF0aXZlO1xyXG4gICAgICB0ZXh0LWFsaWduOiByaWdodDtcclxuICAgICAgcGFkZGluZy1yaWdodDogMTAlO1xyXG4gICAgICB0b3A6IDUwcHg7XHJcblxyXG4gICAgICAuY2xvc2UtdHJpZ2dlciB7XHJcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xyXG4gICAgICB9XHJcbiAgICB9XHJcblxyXG4gICAgLnNpZGUtbmF2LWNsb3NlLXRyaWdnZXIge1xyXG4gICAgICBwb3NpdGlvbjogZml4ZWQ7XHJcbiAgICAgIHRvcDogMDtcclxuICAgICAgcmlnaHQ6IDA7XHJcbiAgICAgIGxlZnQ6IDA7XHJcbiAgICAgIGJvdHRvbTogMDtcclxuICAgICAgZGlzcGxheTogbm9uZTtcclxuICAgICAgei1pbmRleDogMjtcclxuXHJcbiAgICAgIEBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogOTUwcHgpe1xyXG4gICAgICAgICYub3BlbiB7XHJcbiAgICAgICAgICBkaXNwbGF5OiBibG9jaztcclxuICAgICAgICB9XHJcblxyXG4gICAgICAgICYuY2xvc2Uge1xyXG4gICAgICAgICAgZGlzcGxheTogbm9uZTtcclxuICAgICAgICB9XHJcbiAgICAgIH1cclxuICAgIH1cclxuXHJcbiAgICAuc2lkZS1uYXYtYmcge1xyXG4gICAgICBwb3NpdGlvbjogZml4ZWQ7XHJcbiAgICAgIHRvcDogMDtcclxuICAgICAgd2lkdGg6IDM2MHB4O1xyXG4gICAgICBoZWlnaHQ6IDEwMCU7XHJcbiAgICAgIGJhY2tncm91bmQtY29sb3I6ICMwMDA7XHJcbiAgICAgIHJpZ2h0OiAtMzYwcHg7XHJcbiAgICAgIGJvcmRlci1sZWZ0OiAycHggc29saWQgcmdiYSgkY29sb3I6ICNmZmYsICRhbHBoYTogMC41KTtcclxuICAgICAgei1pbmRleDogMztcclxuICAgICAgdHJhbnNpdGlvbjogcmlnaHQgMC4yNXMgZWFzZS1pbi1vdXQ7XHJcbiAgICAgIG92ZXJmbG93LXk6IHNjcm9sbDtcclxuXHJcbiAgICAgIEBtZWRpYSBvbmx5IHNjcmVlbiBhbmQgKG1heC13aWR0aDogOTUwcHgpe1xyXG4gICAgICAgICYub3BlbiB7XHJcbiAgICAgICAgICByaWdodDogMDtcclxuICAgICAgICB9XHJcblxyXG4gICAgICAgICYuY2xvc2Uge1xyXG4gICAgICAgICAgcmlnaHQ6IC0zNjBweDtcclxuICAgICAgICB9XHJcbiAgICAgIH1cclxuXHJcbiAgICAgIC5zaWRlLW5hdiB7XHJcbiAgICAgICAgZGlzcGxheTogYmxvY2s7XHJcbiAgICAgICAgaGVpZ2h0OiAxMDAlO1xyXG4gICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcclxuICAgICAgICB3aWR0aDogOTAlO1xyXG4gICAgICAgIHBhZGRpbmc6IDAgMCAwIDEwJTtcclxuICAgICAgICB0b3A6IDY2cHg7XHJcbiAgICAgICAgcmlnaHQ6IC0xMDAlO1xyXG4gICAgICAgIHotaW5kZXg6IDU7XHJcbiAgICAgICAgdHJhbnNpdGlvbjogcmlnaHQgMC4yNXMgZWFzZS1pbi1vdXQ7XHJcbiAgICBcclxuICAgICAgICBAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDk1MHB4KXtcclxuICAgICAgICAgICYub3BlbiB7XHJcbiAgICAgICAgICAgIHJpZ2h0OiAwO1xyXG4gICAgICAgICAgfVxyXG4gIFxyXG4gICAgICAgICAgJi5jbG9zZSB7XHJcbiAgICAgICAgICAgIHJpZ2h0OiAtMTAwJTtcclxuICAgICAgICAgIH1cclxuICAgICAgICB9XHJcbiAgXHJcbiAgICAgICAgbGkge1xyXG4gICAgICAgICAgbGlzdC1zdHlsZS10eXBlOiBub25lO1xyXG4gICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjtcclxuICAgICAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjtcclxuICAgICAgICAgIHRleHQtYWxpZ246IHJpZ2h0O1xyXG4gICAgICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICMzMzM7XHJcbiAgICAgICAgICBwYWRkaW5nLWJvdHRvbTogMTBweDtcclxuICAgICAgICAgIG1hcmdpbi1ib3R0b206IDEwcHg7XHJcbiAgXHJcbiAgICAgICAgICBhIHtcclxuICAgICAgICAgICAgY29sb3I6ICM3NTc1NzU7XHJcbiAgICAgICAgICAgIGZvbnQtc2l6ZTogMTNweDtcclxuICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDUwMDtcclxuICAgICAgICAgICAgbGV0dGVyLXNwYWNpbmc6IDAuMWVtO1xyXG4gICAgICAgICAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xyXG4gICAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7XHJcbiAgICAgICAgICAgIHRyYW5zaXRpb246IGNvbG9yIDAuMnMgZWFzZS1pbi1vdXQ7XHJcbiAgICAgICAgICAgIGN1cnNvcjogcG9pbnRlcjtcclxuICBcclxuICAgICAgICAgICAgJi5hY3RpdmUge1xyXG4gICAgICAgICAgICAgIGNvbG9yOiAjZmZmO1xyXG4gICAgICAgICAgICB9XHJcbiAgXHJcbiAgICAgICAgICAgICY6aG92ZXIge1xyXG4gICAgICAgICAgICAgIGNvbG9yOiAjZmZmO1xyXG4gICAgICAgICAgICB9XHJcbiAgICAgICAgICB9XHJcbiAgICAgICAgICBcclxuICAgICAgICAgICY6bGFzdC1jaGlsZCB7XHJcbiAgICAgICAgICAgIGJvcmRlci1ib3R0b206IG5vbmU7XHJcbiAgICAgICAgICB9XHJcbiAgICAgICAgfVxyXG4gICAgICB9XHJcbiAgICB9XHJcbiAgfSAgIFxyXG59Il19 */"];
 
 
 
@@ -996,7 +1054,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "8Y7J");
 /* harmony import */ var _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/@angular/material/icon/index.ngfactory */ "XE/z");
 /* harmony import */ var _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/material/icon */ "Tj54");
-/* harmony import */ var _scroll_to_top_component__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./scroll-to-top.component */ "8zJP");
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/common */ "SVse");
+/* harmony import */ var _scroll_to_top_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./scroll-to-top.component */ "8zJP");
 /**
  * @fileoverview This file was generated by the Angular template compiler. Do not edit.
  *
@@ -1008,15 +1067,20 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+
 var styles_ScrollToTopComponent = [_scroll_to_top_component_scss_shim_ngstyle__WEBPACK_IMPORTED_MODULE_0__["styles"]];
 var RenderType_ScrollToTopComponent = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵcrt"]({ encapsulation: 0, styles: styles_ScrollToTopComponent, data: {} });
 
-function View_ScrollToTopComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 3, "div", [["class", "container"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+function View_ScrollToTopComponent_1(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 3, "div", [["class", "container"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
         var pd_0 = (_co.scrollToTop() !== false);
         ad = (pd_0 && ad);
     } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 2, "mat-icon", [["aria-hidden", "false"], ["class", "mat-icon notranslate"], ["role", "img"]], [[1, "data-mat-icon-type", 0], [1, "data-mat-icon-name", 0], [1, "data-mat-icon-namespace", 0], [2, "mat-icon-inline", null], [2, "mat-icon-no-color", null]], null, null, _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_MatIcon_0"], _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_MatIcon"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 8634368, null, 0, _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIcon"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIconRegistry"], [8, "false"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MAT_ICON_LOCATION"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ErrorHandler"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["keyboard_arrow_up"]))], function (_ck, _v) { _ck(_v, 2, 0); }, function (_ck, _v) { var currVal_0 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._usingFontIcon() ? "font" : "svg"); var currVal_1 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._svgName || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).fontIcon); var currVal_2 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._svgNamespace || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).fontSet); var currVal_3 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).inline; var currVal_4 = (((_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "primary") && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "accent")) && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "warn")); _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4); }); }
-function View_ScrollToTopComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-scroll-to-top", [], null, null, null, View_ScrollToTopComponent_0, RenderType_ScrollToTopComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _scroll_to_top_component__WEBPACK_IMPORTED_MODULE_4__["ScrollToTopComponent"], [], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
-var ScrollToTopComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-scroll-to-top", _scroll_to_top_component__WEBPACK_IMPORTED_MODULE_4__["ScrollToTopComponent"], View_ScrollToTopComponent_Host_0, {}, {}, []);
+function View_ScrollToTopComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_ScrollToTopComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.show; _ck(_v, 1, 0, currVal_0); }, null); }
+function View_ScrollToTopComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-scroll-to-top", [], null, [["window", "scroll"]], function (_v, en, $event) { var ad = true; if (("window:scroll" === en)) {
+        var pd_0 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 1).onWindowScroll() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, View_ScrollToTopComponent_0, RenderType_ScrollToTopComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _scroll_to_top_component__WEBPACK_IMPORTED_MODULE_5__["ScrollToTopComponent"], [], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
+var ScrollToTopComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-scroll-to-top", _scroll_to_top_component__WEBPACK_IMPORTED_MODULE_5__["ScrollToTopComponent"], View_ScrollToTopComponent_Host_0, {}, {}, []);
 
 
 
@@ -1086,28 +1150,40 @@ var RenderType_CapsulesComponent = _angular_core__WEBPACK_IMPORTED_MODULE_1__["�
 
 function View_CapsulesComponent_1(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" Getting Capsules...\n"]))], null, null); }
 function View_CapsulesComponent_2(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "h1", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["Capsules"]))], null, null); }
-function View_CapsulesComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_CapsulesComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_CapsulesComponent_5(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-capsuleitem", [], null, null, null, _capsuleitem_capsuleitem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["View_CapsuleitemComponent_0"], _capsuleitem_capsuleitem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["RenderType_CapsuleitemComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _capsuleitem_capsuleitem_component__WEBPACK_IMPORTED_MODULE_5__["CapsuleitemComponent"], [], { capsule: [0, "capsule"] }, null)], function (_ck, _v) { var currVal_0 = _v.context.$implicit; _ck(_v, 1, 0, currVal_0); }, null); }
 function View_CapsulesComponent_4(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 2, "div", [["class", "data-container"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CapsulesComponent_5)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], { ngForOf: [0, "ngForOf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.capsules; _ck(_v, 2, 0, currVal_0); }, null); }
-function View_CapsulesComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_CapsulesComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_CapsulesComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CapsulesComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CapsulesComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](3, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CapsulesComponent_3)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](5, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CapsulesComponent_4)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](7, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CapsulesComponent_6)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](9, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.loading; _ck(_v, 1, 0, currVal_0); var currVal_1 = (_co.capsules && !_co.loading); _ck(_v, 3, 0, currVal_1); var currVal_2 = (_co.capsules && !_co.loading); _ck(_v, 5, 0, currVal_2); var currVal_3 = (_co.capsules && !_co.loading); _ck(_v, 7, 0, currVal_3); var currVal_4 = (_co.capsules && !_co.loading); _ck(_v, 9, 0, currVal_4); }, null); }
 function View_CapsulesComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-capsules", [], null, null, null, View_CapsulesComponent_0, RenderType_CapsulesComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 245760, null, 0, _capsules_component__WEBPACK_IMPORTED_MODULE_7__["CapsulesComponent"], [apollo_angular__WEBPACK_IMPORTED_MODULE_8__["Apollo"]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
 var CapsulesComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-capsules", _capsules_component__WEBPACK_IMPORTED_MODULE_7__["CapsulesComponent"], View_CapsulesComponent_Host_0, {}, {}, []);
@@ -1173,12 +1249,11 @@ class LaunchesComponent {
     constructor(apollo) {
         this.apollo = apollo;
         this.loading = true;
+        // pagination variables
+        this.page = 1;
         this.itemsPerPage = 5;
     }
     ngOnInit() {
-        if (!this.page) {
-            this.page = 1;
-        }
         this.querySubscription = this.apollo.watchQuery({
             query: LAUNCHES_QUERY,
             variables: {
@@ -1198,11 +1273,30 @@ class LaunchesComponent {
         this.hasNextPage = data.launches.hasNextPage;
         this.totalPages = data.launches.totalPages;
         this.totalDocs = data.launches.totalDocs;
+        if (this.page > this.totalPages) {
+            this.page = this.totalPages;
+            this.updateData();
+        }
+    }
+    updateData() {
+        this.loading = true;
+        this.querySubscription = this.apollo.watchQuery({
+            query: LAUNCHES_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.launches = data.launches.docs;
+            this.updatePaginatorValues(data);
+        });
     }
     changeLimit(newLimit) {
         this.itemsPerPage = newLimit;
         this.loading = true;
-        this.page = 1;
         this.querySubscription = this.apollo.watchQuery({
             query: LAUNCHES_QUERY,
             variables: {
@@ -1237,6 +1331,40 @@ class LaunchesComponent {
     prevPage() {
         this.loading = true;
         this.page--;
+        this.querySubscription = this.apollo.watchQuery({
+            query: LAUNCHES_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.launches = data.launches.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    firstPage() {
+        this.loading = true;
+        this.page = 1;
+        this.querySubscription = this.apollo.watchQuery({
+            query: LAUNCHES_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.launches = data.launches.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    lastPage() {
+        this.loading = true;
+        this.page = this.totalPages;
         this.querySubscription = this.apollo.watchQuery({
             query: LAUNCHES_QUERY,
             variables: {
@@ -1621,6 +1749,8 @@ class PaginatorComponent {
     constructor() {
         this.onNextPage = new _angular_core__WEBPACK_IMPORTED_MODULE_0__["EventEmitter"]();
         this.onPrevPage = new _angular_core__WEBPACK_IMPORTED_MODULE_0__["EventEmitter"]();
+        this.onFirstPage = new _angular_core__WEBPACK_IMPORTED_MODULE_0__["EventEmitter"]();
+        this.onLastPage = new _angular_core__WEBPACK_IMPORTED_MODULE_0__["EventEmitter"]();
         this.onChangeLimit = new _angular_core__WEBPACK_IMPORTED_MODULE_0__["EventEmitter"]();
     }
     ngOnInit() {
@@ -1630,6 +1760,12 @@ class PaginatorComponent {
     }
     prevPageRequest() {
         this.onPrevPage.emit();
+    }
+    firstPageRequest() {
+        this.onFirstPage.emit();
+    }
+    lastPageRequest() {
+        this.onLastPage.emit();
     }
     changeLimit(limit) {
         this.onChangeLimit.emit(Number(limit));
@@ -2026,28 +2162,40 @@ var RenderType_LaunchpadsComponent = _angular_core__WEBPACK_IMPORTED_MODULE_1__[
 
 function View_LaunchpadsComponent_1(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" Getting Launch Pads...\n"]))], null, null); }
 function View_LaunchpadsComponent_2(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "h1", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["Launch Pads"]))], null, null); }
-function View_LaunchpadsComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_LaunchpadsComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_LaunchpadsComponent_5(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-launchpaditem", [], null, null, null, _launchpaditem_launchpaditem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["View_LaunchpaditemComponent_0"], _launchpaditem_launchpaditem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["RenderType_LaunchpaditemComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _launchpaditem_launchpaditem_component__WEBPACK_IMPORTED_MODULE_5__["LaunchpaditemComponent"], [], { launchpad: [0, "launchpad"] }, null)], function (_ck, _v) { var currVal_0 = _v.context.$implicit; _ck(_v, 1, 0, currVal_0); }, null); }
 function View_LaunchpadsComponent_4(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 2, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchpadsComponent_5)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], { ngForOf: [0, "ngForOf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.launchpads; _ck(_v, 2, 0, currVal_0); }, null); }
-function View_LaunchpadsComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_LaunchpadsComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_LaunchpadsComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchpadsComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchpadsComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](3, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchpadsComponent_3)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](5, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchpadsComponent_4)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](7, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchpadsComponent_6)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](9, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.loading; _ck(_v, 1, 0, currVal_0); var currVal_1 = (_co.launchpads && !_co.loading); _ck(_v, 3, 0, currVal_1); var currVal_2 = (_co.launchpads && !_co.loading); _ck(_v, 5, 0, currVal_2); var currVal_3 = (_co.launchpads && !_co.loading); _ck(_v, 7, 0, currVal_3); var currVal_4 = (_co.launchpads && !_co.loading); _ck(_v, 9, 0, currVal_4); }, null); }
 function View_LaunchpadsComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-launchpads", [], null, null, null, View_LaunchpadsComponent_0, RenderType_LaunchpadsComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 245760, null, 0, _launchpads_component__WEBPACK_IMPORTED_MODULE_7__["LaunchpadsComponent"], [apollo_angular__WEBPACK_IMPORTED_MODULE_8__["Apollo"]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
 var LaunchpadsComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-launchpads", _launchpads_component__WEBPACK_IMPORTED_MODULE_7__["LaunchpadsComponent"], View_LaunchpadsComponent_Host_0, {}, {}, []);
@@ -2147,28 +2295,40 @@ var RenderType_LaunchesComponent = _angular_core__WEBPACK_IMPORTED_MODULE_1__["�
 
 function View_LaunchesComponent_1(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" Getting Launch Missions...\n"]))], null, null); }
 function View_LaunchesComponent_2(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "h1", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["Launch Missions"]))], null, null); }
-function View_LaunchesComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_LaunchesComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_LaunchesComponent_5(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-launchitem", [], null, null, null, _launchitem_launchitem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["View_LaunchitemComponent_0"], _launchitem_launchitem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["RenderType_LaunchitemComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _launchitem_launchitem_component__WEBPACK_IMPORTED_MODULE_5__["LaunchitemComponent"], [], { launch: [0, "launch"] }, null)], function (_ck, _v) { var currVal_0 = _v.context.$implicit; _ck(_v, 1, 0, currVal_0); }, null); }
 function View_LaunchesComponent_4(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 2, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchesComponent_5)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], { ngForOf: [0, "ngForOf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.launches; _ck(_v, 2, 0, currVal_0); }, null); }
-function View_LaunchesComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_LaunchesComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_LaunchesComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchesComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchesComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](3, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchesComponent_3)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](5, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchesComponent_4)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](7, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LaunchesComponent_6)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](9, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.loading; _ck(_v, 1, 0, currVal_0); var currVal_1 = (_co.launches && !_co.loading); _ck(_v, 3, 0, currVal_1); var currVal_2 = (_co.launches && !_co.loading); _ck(_v, 5, 0, currVal_2); var currVal_3 = (_co.launches && !_co.loading); _ck(_v, 7, 0, currVal_3); var currVal_4 = (_co.launches && !_co.loading); _ck(_v, 9, 0, currVal_4); }, null); }
 function View_LaunchesComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-launches", [], null, null, null, View_LaunchesComponent_0, RenderType_LaunchesComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 245760, null, 0, _launches_component__WEBPACK_IMPORTED_MODULE_7__["LaunchesComponent"], [apollo_angular__WEBPACK_IMPORTED_MODULE_8__["Apollo"]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
 var LaunchesComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-launches", _launches_component__WEBPACK_IMPORTED_MODULE_7__["LaunchesComponent"], View_LaunchesComponent_Host_0, {}, {}, []);
@@ -2679,28 +2839,40 @@ var RenderType_LandpadsComponent = _angular_core__WEBPACK_IMPORTED_MODULE_1__["�
 
 function View_LandpadsComponent_1(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" Getting Land Pads...\n"]))], null, null); }
 function View_LandpadsComponent_2(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "h1", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["Land Pads"]))], null, null); }
-function View_LandpadsComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_LandpadsComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_LandpadsComponent_5(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-landpaditem", [], null, null, null, _landpaditem_landpaditem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["View_LandpaditemComponent_0"], _landpaditem_landpaditem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["RenderType_LandpaditemComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _landpaditem_landpaditem_component__WEBPACK_IMPORTED_MODULE_5__["LandpaditemComponent"], [], { landpad: [0, "landpad"] }, null)], function (_ck, _v) { var currVal_0 = _v.context.$implicit; _ck(_v, 1, 0, currVal_0); }, null); }
 function View_LandpadsComponent_4(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 2, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LandpadsComponent_5)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], { ngForOf: [0, "ngForOf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.landpads; _ck(_v, 2, 0, currVal_0); }, null); }
-function View_LandpadsComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_LandpadsComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_LandpadsComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LandpadsComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LandpadsComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](3, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LandpadsComponent_3)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](5, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LandpadsComponent_4)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](7, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_LandpadsComponent_6)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](9, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.loading; _ck(_v, 1, 0, currVal_0); var currVal_1 = (_co.landpads && !_co.loading); _ck(_v, 3, 0, currVal_1); var currVal_2 = (_co.landpads && !_co.loading); _ck(_v, 5, 0, currVal_2); var currVal_3 = (_co.landpads && !_co.loading); _ck(_v, 7, 0, currVal_3); var currVal_4 = (_co.landpads && !_co.loading); _ck(_v, 9, 0, currVal_4); }, null); }
 function View_LandpadsComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-landpads", [], null, null, null, View_LandpadsComponent_0, RenderType_LandpadsComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 245760, null, 0, _landpads_component__WEBPACK_IMPORTED_MODULE_7__["LandpadsComponent"], [apollo_angular__WEBPACK_IMPORTED_MODULE_8__["Apollo"]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
 var LandpadsComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-landpads", _landpads_component__WEBPACK_IMPORTED_MODULE_7__["LandpadsComponent"], View_LandpadsComponent_Host_0, {}, {}, []);
@@ -3157,12 +3329,11 @@ class LandpadsComponent {
     constructor(apollo) {
         this.apollo = apollo;
         this.loading = true;
+        // pagination variables
+        this.page = 1;
         this.itemsPerPage = 5;
     }
     ngOnInit() {
-        if (!this.page) {
-            this.page = 1;
-        }
         this.querySubscription = this.apollo.watchQuery({
             query: LANDPADS_QUERY,
             variables: {
@@ -3182,11 +3353,30 @@ class LandpadsComponent {
         this.hasNextPage = data.landpads.hasNextPage;
         this.totalPages = data.landpads.totalPages;
         this.totalDocs = data.landpads.totalDocs;
+        if (this.page > this.totalPages) {
+            this.page = this.totalPages;
+            this.updateData();
+        }
+    }
+    updateData() {
+        this.loading = true;
+        this.querySubscription = this.apollo.watchQuery({
+            query: LANDPADS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.landpads = data.landpads.docs;
+            this.updatePaginatorValues(data);
+        });
     }
     changeLimit(newLimit) {
         this.itemsPerPage = newLimit;
         this.loading = true;
-        this.page = 1;
         this.querySubscription = this.apollo.watchQuery({
             query: LANDPADS_QUERY,
             variables: {
@@ -3221,6 +3411,40 @@ class LandpadsComponent {
     prevPage() {
         this.loading = true;
         this.page--;
+        this.querySubscription = this.apollo.watchQuery({
+            query: LANDPADS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.landpads = data.landpads.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    firstPage() {
+        this.loading = true;
+        this.page = 1;
+        this.querySubscription = this.apollo.watchQuery({
+            query: LANDPADS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.landpads = data.landpads.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    lastPage() {
+        this.loading = true;
+        this.page = this.totalPages;
         this.querySubscription = this.apollo.watchQuery({
             query: LANDPADS_QUERY,
             variables: {
@@ -3356,28 +3580,40 @@ var RenderType_RocketsComponent = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵ
 
 function View_RocketsComponent_1(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" Getting Rockets...\n"]))], null, null); }
 function View_RocketsComponent_2(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "h1", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["Rockets"]))], null, null); }
-function View_RocketsComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_RocketsComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_RocketsComponent_5(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-rocketitem", [], null, null, null, _rocketitem_rocketitem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["View_RocketitemComponent_0"], _rocketitem_rocketitem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["RenderType_RocketitemComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _rocketitem_rocketitem_component__WEBPACK_IMPORTED_MODULE_5__["RocketitemComponent"], [], { rocket: [0, "rocket"] }, null)], function (_ck, _v) { var currVal_0 = _v.context.$implicit; _ck(_v, 1, 0, currVal_0); }, null); }
 function View_RocketsComponent_4(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 2, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_RocketsComponent_5)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], { ngForOf: [0, "ngForOf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.rockets; _ck(_v, 2, 0, currVal_0); }, null); }
-function View_RocketsComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_RocketsComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_RocketsComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_RocketsComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_RocketsComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](3, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_RocketsComponent_3)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](5, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_RocketsComponent_4)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](7, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_RocketsComponent_6)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](9, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.loading; _ck(_v, 1, 0, currVal_0); var currVal_1 = (_co.rockets && !_co.loading); _ck(_v, 3, 0, currVal_1); var currVal_2 = (_co.rockets && !_co.loading); _ck(_v, 5, 0, currVal_2); var currVal_3 = (_co.rockets && !_co.loading); _ck(_v, 7, 0, currVal_3); var currVal_4 = (_co.rockets && !_co.loading); _ck(_v, 9, 0, currVal_4); }, null); }
 function View_RocketsComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-rockets", [], null, null, null, View_RocketsComponent_0, RenderType_RocketsComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 245760, null, 0, _rockets_component__WEBPACK_IMPORTED_MODULE_7__["RocketsComponent"], [apollo_angular__WEBPACK_IMPORTED_MODULE_8__["Apollo"]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
 var RocketsComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-rockets", _rockets_component__WEBPACK_IMPORTED_MODULE_7__["RocketsComponent"], View_RocketsComponent_Host_0, {}, {}, []);
@@ -3559,9 +3795,19 @@ class HeaderComponent {
     }
     toggleOpen() {
         this.isOpen = !this.isOpen;
+        if (this.isOpen === true) {
+            document.body.style.overflow = 'hidden';
+            document.body.style.top = `-${window.scrollY}px`;
+        }
+        else {
+            document.body.style.overflow = '';
+            document.body.style.top = '';
+        }
     }
     closeSidenav() {
         this.isOpen = false;
+        document.body.style.overflow = '';
+        document.body.style.top = '';
     }
 }
 
@@ -3627,12 +3873,11 @@ class LaunchpadsComponent {
     constructor(apollo) {
         this.apollo = apollo;
         this.loading = true;
+        // pagination variables
+        this.page = 1;
         this.itemsPerPage = 5;
     }
     ngOnInit() {
-        if (!this.page) {
-            this.page = 1;
-        }
         this.querySubscription = this.apollo.watchQuery({
             query: LAUNCHPADS_QUERY,
             variables: {
@@ -3652,11 +3897,30 @@ class LaunchpadsComponent {
         this.hasNextPage = data.launchpads.hasNextPage;
         this.totalPages = data.launchpads.totalPages;
         this.totalDocs = data.launchpads.totalDocs;
+        if (this.page > this.totalPages) {
+            this.page = this.totalPages;
+            this.updateData();
+        }
+    }
+    updateData() {
+        this.loading = true;
+        this.querySubscription = this.apollo.watchQuery({
+            query: LAUNCHPADS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.launchpads = data.launchpads.docs;
+            this.updatePaginatorValues(data);
+        });
     }
     changeLimit(newLimit) {
         this.itemsPerPage = newLimit;
         this.loading = true;
-        this.page = 1;
         this.querySubscription = this.apollo.watchQuery({
             query: LAUNCHPADS_QUERY,
             variables: {
@@ -3691,6 +3955,40 @@ class LaunchpadsComponent {
     prevPage() {
         this.loading = true;
         this.page--;
+        this.querySubscription = this.apollo.watchQuery({
+            query: LAUNCHPADS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.launchpads = data.launchpads.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    firstPage() {
+        this.loading = true;
+        this.page = 1;
+        this.querySubscription = this.apollo.watchQuery({
+            query: LAUNCHPADS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.launchpads = data.launchpads.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    lastPage() {
+        this.loading = true;
+        this.page = this.totalPages;
         this.querySubscription = this.apollo.watchQuery({
             query: LAUNCHPADS_QUERY,
             variables: {
@@ -4098,8 +4396,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "PaginatorComponentNgFactory", function() { return PaginatorComponentNgFactory; });
 /* harmony import */ var _paginator_component_scss_shim_ngstyle__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./paginator.component.scss.shim.ngstyle */ "1Z3S");
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "8Y7J");
-/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/common */ "SVse");
-/* harmony import */ var _paginator_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./paginator.component */ "NGvD");
+/* harmony import */ var _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../../../../node_modules/@angular/material/icon/index.ngfactory */ "XE/z");
+/* harmony import */ var _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/material/icon */ "Tj54");
+/* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @angular/common */ "SVse");
+/* harmony import */ var _paginator_component__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./paginator.component */ "NGvD");
 /**
  * @fileoverview This file was generated by the Angular template compiler. Do not edit.
  *
@@ -4110,25 +4410,35 @@ __webpack_require__.r(__webpack_exports__);
 
 
 
+
+
 var styles_PaginatorComponent = [_paginator_component_scss_shim_ngstyle__WEBPACK_IMPORTED_MODULE_0__["styles"]];
 var RenderType_PaginatorComponent = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵcrt"]({ encapsulation: 0, styles: styles_PaginatorComponent, data: {} });
 
 function View_PaginatorComponent_1(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "option", [["value", "10"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["10"]))], null, null); }
 function View_PaginatorComponent_2(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "option", [["value", "25"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["25"]))], null, null); }
-function View_PaginatorComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "button", [], [[8, "disabled", 0]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+function View_PaginatorComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 3, "span", [["class", "buttons"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.firstPageRequest() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 2, "mat-icon", [["class", "mat-icon notranslate"], ["role", "img"]], [[1, "data-mat-icon-type", 0], [1, "data-mat-icon-name", 0], [1, "data-mat-icon-namespace", 0], [2, "mat-icon-inline", null], [2, "mat-icon-no-color", null]], null, null, _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_MatIcon_0"], _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_MatIcon"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 8634368, null, 0, _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIcon"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIconRegistry"], [8, null], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MAT_ICON_LOCATION"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ErrorHandler"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["first_page"]))], function (_ck, _v) { _ck(_v, 2, 0); }, function (_ck, _v) { var currVal_0 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._usingFontIcon() ? "font" : "svg"); var currVal_1 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._svgName || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).fontIcon); var currVal_2 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._svgNamespace || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).fontSet); var currVal_3 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).inline; var currVal_4 = (((_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "primary") && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "accent")) && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "warn")); _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4); }); }
+function View_PaginatorComponent_4(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 3, "span", [["class", "buttons"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
         var pd_0 = (_co.prevPageRequest() !== false);
         ad = (pd_0 && ad);
-    } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" < "]))], null, function (_ck, _v) { var _co = _v.component; var currVal_0 = !_co.hasPrevPage; _ck(_v, 0, 0, currVal_0); }); }
-function View_PaginatorComponent_4(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "button", [], [[8, "disabled", 0]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+    } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 2, "mat-icon", [["class", "mat-icon notranslate"], ["role", "img"]], [[1, "data-mat-icon-type", 0], [1, "data-mat-icon-name", 0], [1, "data-mat-icon-namespace", 0], [2, "mat-icon-inline", null], [2, "mat-icon-no-color", null]], null, null, _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_MatIcon_0"], _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_MatIcon"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 8634368, null, 0, _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIcon"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIconRegistry"], [8, null], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MAT_ICON_LOCATION"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ErrorHandler"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["navigate_before"]))], function (_ck, _v) { _ck(_v, 2, 0); }, function (_ck, _v) { var currVal_0 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._usingFontIcon() ? "font" : "svg"); var currVal_1 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._svgName || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).fontIcon); var currVal_2 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._svgNamespace || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).fontSet); var currVal_3 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).inline; var currVal_4 = (((_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "primary") && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "accent")) && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "warn")); _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4); }); }
+function View_PaginatorComponent_5(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 3, "span", [["class", "buttons"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
         var pd_0 = (_co.nextPageRequest() !== false);
         ad = (pd_0 && ad);
-    } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" > "]))], null, function (_ck, _v) { var _co = _v.component; var currVal_0 = !_co.hasNextPage; _ck(_v, 0, 0, currVal_0); }); }
-function View_PaginatorComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 19, "div", [["class", "paginator"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 9, "div", [["class", "limit"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, null, 1, "span", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" Items per page: "])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](4, 0, [["newLimit", 1]], null, 6, "select", [], [[8, "value", 0]], [[null, "change"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("change" === en)) {
+    } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 2, "mat-icon", [["class", "mat-icon notranslate"], ["role", "img"]], [[1, "data-mat-icon-type", 0], [1, "data-mat-icon-name", 0], [1, "data-mat-icon-namespace", 0], [2, "mat-icon-inline", null], [2, "mat-icon-no-color", null]], null, null, _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_MatIcon_0"], _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_MatIcon"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 8634368, null, 0, _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIcon"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIconRegistry"], [8, null], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MAT_ICON_LOCATION"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ErrorHandler"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["navigate_next"]))], function (_ck, _v) { _ck(_v, 2, 0); }, function (_ck, _v) { var currVal_0 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._usingFontIcon() ? "font" : "svg"); var currVal_1 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._svgName || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).fontIcon); var currVal_2 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._svgNamespace || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).fontSet); var currVal_3 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).inline; var currVal_4 = (((_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "primary") && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "accent")) && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "warn")); _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4); }); }
+function View_PaginatorComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 3, "span", [["class", "buttons"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+        var pd_0 = (_co.lastPageRequest() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 2, "mat-icon", [["class", "mat-icon notranslate"], ["role", "img"]], [[1, "data-mat-icon-type", 0], [1, "data-mat-icon-name", 0], [1, "data-mat-icon-namespace", 0], [2, "mat-icon-inline", null], [2, "mat-icon-no-color", null]], null, null, _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_MatIcon_0"], _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_MatIcon"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 8634368, null, 0, _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIcon"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MatIconRegistry"], [8, null], _angular_material_icon__WEBPACK_IMPORTED_MODULE_3__["MAT_ICON_LOCATION"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ErrorHandler"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["last_page"]))], function (_ck, _v) { _ck(_v, 2, 0); }, function (_ck, _v) { var currVal_0 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._usingFontIcon() ? "font" : "svg"); var currVal_1 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._svgName || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).fontIcon); var currVal_2 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2)._svgNamespace || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).fontSet); var currVal_3 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).inline; var currVal_4 = (((_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "primary") && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "accent")) && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 2).color !== "warn")); _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4); }); }
+function View_PaginatorComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 23, "div", [["class", "paginator"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 9, "div", [["class", "limit"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, null, 1, "span", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" Items/page: "])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](4, 0, [["newLimit", 1]], null, 6, "select", [], [[8, "value", 0]], [[null, "change"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("change" === en)) {
         var pd_0 = (_co.changeLimit(_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 4).value) !== false);
         ad = (pd_0 && ad);
-    } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](5, 0, null, null, 1, "option", [["value", "5"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["5"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_PaginatorComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](8, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_PaginatorComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](10, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_PaginatorComponent_3)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](12, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](13, 0, null, null, 4, "div", [["class", "page-info"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" PAGE "])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](15, 0, null, null, 1, "span", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](16, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](17, null, ["/", " "])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_PaginatorComponent_4)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](19, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_1 = (_co.totalDocs > 5); _ck(_v, 8, 0, currVal_1); var currVal_2 = (_co.totalDocs > 10); _ck(_v, 10, 0, currVal_2); var currVal_3 = _co.hasPrevPage; _ck(_v, 12, 0, currVal_3); var currVal_6 = _co.hasNextPage; _ck(_v, 19, 0, currVal_6); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.itemsPerPage; _ck(_v, 4, 0, currVal_0); var currVal_4 = _co.page; _ck(_v, 16, 0, currVal_4); var currVal_5 = _co.totalPages; _ck(_v, 17, 0, currVal_5); }); }
-function View_PaginatorComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, null, null, View_PaginatorComponent_0, RenderType_PaginatorComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
-var PaginatorComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-paginator", _paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], View_PaginatorComponent_Host_0, { page: "page", itemsPerPage: "itemsPerPage", totalPages: "totalPages", totalDocs: "totalDocs", hasPrevPage: "hasPrevPage", hasNextPage: "hasNextPage" }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" }, []);
+    } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](5, 0, null, null, 1, "option", [["value", "5"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["5"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_PaginatorComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](8, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_PaginatorComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](10, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_PaginatorComponent_3)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](12, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_PaginatorComponent_4)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](14, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](15, 0, null, null, 4, "div", [["class", "page-info"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" PAGE "])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](17, 0, null, null, 1, "span", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](18, null, ["", ""])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](19, null, ["/", " "])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_PaginatorComponent_5)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](21, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_PaginatorComponent_6)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](23, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_1 = (_co.totalDocs > 5); _ck(_v, 8, 0, currVal_1); var currVal_2 = (_co.totalDocs > 10); _ck(_v, 10, 0, currVal_2); var currVal_3 = _co.hasPrevPage; _ck(_v, 12, 0, currVal_3); var currVal_4 = _co.hasPrevPage; _ck(_v, 14, 0, currVal_4); var currVal_7 = _co.hasNextPage; _ck(_v, 21, 0, currVal_7); var currVal_8 = _co.hasNextPage; _ck(_v, 23, 0, currVal_8); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.itemsPerPage; _ck(_v, 4, 0, currVal_0); var currVal_5 = _co.page; _ck(_v, 18, 0, currVal_5); var currVal_6 = _co.totalPages; _ck(_v, 19, 0, currVal_6); }); }
+function View_PaginatorComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, null, null, View_PaginatorComponent_0, RenderType_PaginatorComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _paginator_component__WEBPACK_IMPORTED_MODULE_5__["PaginatorComponent"], [], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
+var PaginatorComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-paginator", _paginator_component__WEBPACK_IMPORTED_MODULE_5__["PaginatorComponent"], View_PaginatorComponent_Host_0, { page: "page", itemsPerPage: "itemsPerPage", totalPages: "totalPages", totalDocs: "totalDocs", hasPrevPage: "hasPrevPage", hasNextPage: "hasNextPage" }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" }, []);
 
 
 
@@ -4169,12 +4479,11 @@ class RocketsComponent {
     constructor(apollo) {
         this.apollo = apollo;
         this.loading = true;
+        // pagination variables
+        this.page = 1;
         this.itemsPerPage = 5;
     }
     ngOnInit() {
-        if (!this.page) {
-            this.page = 1;
-        }
         this.querySubscription = this.apollo.watchQuery({
             query: ROCKETS_QUERY,
             variables: {
@@ -4194,11 +4503,30 @@ class RocketsComponent {
         this.hasNextPage = data.rockets.hasNextPage;
         this.totalPages = data.rockets.totalPages;
         this.totalDocs = data.rockets.totalDocs;
+        if (this.page > this.totalPages) {
+            this.page = this.totalPages;
+            this.updateData();
+        }
+    }
+    updateData() {
+        this.loading = true;
+        this.querySubscription = this.apollo.watchQuery({
+            query: ROCKETS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.rockets = data.rockets.docs;
+            this.updatePaginatorValues(data);
+        });
     }
     changeLimit(newLimit) {
         this.itemsPerPage = newLimit;
         this.loading = true;
-        this.page = 1;
         this.querySubscription = this.apollo.watchQuery({
             query: ROCKETS_QUERY,
             variables: {
@@ -4233,6 +4561,40 @@ class RocketsComponent {
     prevPage() {
         this.loading = true;
         this.page--;
+        this.querySubscription = this.apollo.watchQuery({
+            query: ROCKETS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.rockets = data.rockets.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    firstPage() {
+        this.loading = true;
+        this.page = 1;
+        this.querySubscription = this.apollo.watchQuery({
+            query: ROCKETS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.rockets = data.rockets.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    lastPage() {
+        this.loading = true;
+        this.page = this.totalPages;
         this.querySubscription = this.apollo.watchQuery({
             query: ROCKETS_QUERY,
             variables: {
@@ -4426,16 +4788,16 @@ function View_HeaderComponent_2(_l) { return _angular_core__WEBPACK_IMPORTED_MOD
         var pd_0 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 3).onClick($event.button, $event.ctrlKey, $event.shiftKey, $event.altKey, $event.metaKey) !== false);
         ad = (pd_0 && ad);
     } return ad; }, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgClass"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["KeyValueDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["Renderer2"]], { ngClass: [0, "ngClass"] }, null), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](3, 671744, null, 0, _angular_router__WEBPACK_IMPORTED_MODULE_3__["RouterLinkWithHref"], [_angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"], _angular_router__WEBPACK_IMPORTED_MODULE_3__["ActivatedRoute"], _angular_common__WEBPACK_IMPORTED_MODULE_2__["LocationStrategy"]], { routerLink: [0, "routerLink"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](4, null, ["", ""]))], function (_ck, _v) { var _co = _v.component; var currVal_2 = ((_co.active_link === _v.context.$implicit.label) ? "active" : ""); _ck(_v, 2, 0, currVal_2); var currVal_3 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵinlineInterpolate"](1, "", _v.context.$implicit.route, ""); _ck(_v, 3, 0, currVal_3); }, function (_ck, _v) { var currVal_0 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 3).target; var currVal_1 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 3).href; _ck(_v, 1, 0, currVal_0, currVal_1); var currVal_4 = _v.context.$implicit.label; _ck(_v, 4, 0, currVal_4); }); }
-function View_HeaderComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 21, "div", [["class", "app-header"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 0, "img", [["alt", "SpaceX"]], [[8, "src", 4]], null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, null, 19, "nav", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](3, 0, null, null, 2, "ul", [["class", "main-nav"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_HeaderComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](5, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], { ngForOf: [0, "ngForOf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](6, 0, null, null, 3, "span", [["class", "open-trigger"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+function View_HeaderComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 21, "div", [["class", "app-header"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](1, 0, null, null, 0, "img", [["alt", "SpaceX"]], [[8, "src", 4]], null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, null, 3, "span", [["class", "open-trigger"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
         var pd_0 = (_co.toggleOpen() !== false);
         ad = (pd_0 && ad);
-    } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](7, 0, null, null, 2, "mat-icon", [["aria-hidden", "false"], ["class", "mat-icon notranslate"], ["role", "img"]], [[1, "data-mat-icon-type", 0], [1, "data-mat-icon-name", 0], [1, "data-mat-icon-namespace", 0], [2, "mat-icon-inline", null], [2, "mat-icon-no-color", null]], null, null, _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_4__["View_MatIcon_0"], _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_4__["RenderType_MatIcon"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](8, 8634368, null, 0, _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MatIcon"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MatIconRegistry"], [8, "false"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MAT_ICON_LOCATION"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ErrorHandler"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["menu"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](10, 0, null, null, 1, "div", [], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+    } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](3, 0, null, null, 2, "mat-icon", [["aria-hidden", "false"], ["class", "mat-icon notranslate"], ["role", "img"]], [[1, "data-mat-icon-type", 0], [1, "data-mat-icon-name", 0], [1, "data-mat-icon-namespace", 0], [2, "mat-icon-inline", null], [2, "mat-icon-no-color", null]], null, null, _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_4__["View_MatIcon_0"], _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_4__["RenderType_MatIcon"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](4, 8634368, null, 0, _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MatIcon"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MatIconRegistry"], [8, "false"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MAT_ICON_LOCATION"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ErrorHandler"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["menu"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](6, 0, null, null, 15, "nav", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](7, 0, null, null, 2, "ul", [["class", "main-nav"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_HeaderComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](9, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], { ngForOf: [0, "ngForOf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](10, 0, null, null, 1, "div", [], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
         var pd_0 = (_co.closeSidenav() !== false);
         ad = (pd_0 && ad);
-    } return ad; }, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](11, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgClass"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["KeyValueDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["Renderer2"]], { ngClass: [0, "ngClass"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](12, 0, null, null, 1, "div", [], null, null, null, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](13, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgClass"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["KeyValueDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["Renderer2"]], { ngClass: [0, "ngClass"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](14, 0, null, null, 7, "ul", [], null, null, null, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](15, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgClass"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["KeyValueDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["Renderer2"]], { ngClass: [0, "ngClass"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](16, 0, null, null, 3, "li", [["class", "close-trigger"]], null, [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
+    } return ad; }, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](11, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgClass"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["KeyValueDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["Renderer2"]], { ngClass: [0, "ngClass"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](12, 0, null, null, 9, "div", [], null, null, null, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](13, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgClass"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["KeyValueDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["Renderer2"]], { ngClass: [0, "ngClass"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](14, 0, null, null, 3, "div", [["class", "close-trigger-container"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](15, 0, null, null, 2, "mat-icon", [["aria-hidden", "false"], ["class", "close-trigger mat-icon notranslate"], ["role", "img"]], [[1, "data-mat-icon-type", 0], [1, "data-mat-icon-name", 0], [1, "data-mat-icon-namespace", 0], [2, "mat-icon-inline", null], [2, "mat-icon-no-color", null]], [[null, "click"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("click" === en)) {
         var pd_0 = (_co.toggleOpen() !== false);
         ad = (pd_0 && ad);
-    } return ad; }, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](17, 0, null, null, 2, "mat-icon", [["aria-hidden", "false"], ["class", "mat-icon notranslate"], ["role", "img"]], [[1, "data-mat-icon-type", 0], [1, "data-mat-icon-name", 0], [1, "data-mat-icon-namespace", 0], [2, "mat-icon-inline", null], [2, "mat-icon-no-color", null]], null, null, _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_4__["View_MatIcon_0"], _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_4__["RenderType_MatIcon"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](18, 8634368, null, 0, _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MatIcon"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MatIconRegistry"], [8, "false"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MAT_ICON_LOCATION"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ErrorHandler"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["close"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_HeaderComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](21, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], { ngForOf: [0, "ngForOf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_1 = _co.links; _ck(_v, 5, 0, currVal_1); _ck(_v, 8, 0); var currVal_7 = (_co.isOpen ? "side-nav-close-trigger open" : "side-nav-close-trigger close"); _ck(_v, 11, 0, currVal_7); var currVal_8 = (_co.isOpen ? "side-nav-bg open" : "side-nav-bg close"); _ck(_v, 13, 0, currVal_8); var currVal_9 = (_co.isOpen ? "side-nav open" : "side-nav close"); _ck(_v, 15, 0, currVal_9); _ck(_v, 18, 0); var currVal_15 = _co.links; _ck(_v, 21, 0, currVal_15); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.logo_link; _ck(_v, 1, 0, currVal_0); var currVal_2 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 8)._usingFontIcon() ? "font" : "svg"); var currVal_3 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 8)._svgName || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 8).fontIcon); var currVal_4 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 8)._svgNamespace || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 8).fontSet); var currVal_5 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 8).inline; var currVal_6 = (((_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 8).color !== "primary") && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 8).color !== "accent")) && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 8).color !== "warn")); _ck(_v, 7, 0, currVal_2, currVal_3, currVal_4, currVal_5, currVal_6); var currVal_10 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 18)._usingFontIcon() ? "font" : "svg"); var currVal_11 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 18)._svgName || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 18).fontIcon); var currVal_12 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 18)._svgNamespace || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 18).fontSet); var currVal_13 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 18).inline; var currVal_14 = (((_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 18).color !== "primary") && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 18).color !== "accent")) && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 18).color !== "warn")); _ck(_v, 17, 0, currVal_10, currVal_11, currVal_12, currVal_13, currVal_14); }); }
+    } return ad; }, _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_4__["View_MatIcon_0"], _node_modules_angular_material_icon_index_ngfactory__WEBPACK_IMPORTED_MODULE_4__["RenderType_MatIcon"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](16, 8634368, null, 0, _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MatIcon"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MatIconRegistry"], [8, "false"], _angular_material_icon__WEBPACK_IMPORTED_MODULE_5__["MAT_ICON_LOCATION"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ErrorHandler"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, 0, ["close"])), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](18, 0, null, null, 3, "ul", [], null, null, null, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](19, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgClass"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["KeyValueDiffers"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ElementRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["Renderer2"]], { ngClass: [0, "ngClass"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_HeaderComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](21, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_2__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], { ngForOf: [0, "ngForOf"] }, null)], function (_ck, _v) { var _co = _v.component; _ck(_v, 4, 0); var currVal_6 = _co.links; _ck(_v, 9, 0, currVal_6); var currVal_7 = (_co.isOpen ? "side-nav-close-trigger open" : "side-nav-close-trigger close"); _ck(_v, 11, 0, currVal_7); var currVal_8 = (_co.isOpen ? "side-nav-bg open" : "side-nav-bg close"); _ck(_v, 13, 0, currVal_8); _ck(_v, 16, 0); var currVal_14 = (_co.isOpen ? "side-nav open" : "side-nav close"); _ck(_v, 19, 0, currVal_14); var currVal_15 = _co.links; _ck(_v, 21, 0, currVal_15); }, function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.logo_link; _ck(_v, 1, 0, currVal_0); var currVal_1 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 4)._usingFontIcon() ? "font" : "svg"); var currVal_2 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 4)._svgName || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 4).fontIcon); var currVal_3 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 4)._svgNamespace || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 4).fontSet); var currVal_4 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 4).inline; var currVal_5 = (((_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 4).color !== "primary") && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 4).color !== "accent")) && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 4).color !== "warn")); _ck(_v, 3, 0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); var currVal_9 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 16)._usingFontIcon() ? "font" : "svg"); var currVal_10 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 16)._svgName || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 16).fontIcon); var currVal_11 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 16)._svgNamespace || _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 16).fontSet); var currVal_12 = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 16).inline; var currVal_13 = (((_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 16).color !== "primary") && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 16).color !== "accent")) && (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 16).color !== "warn")); _ck(_v, 15, 0, currVal_9, currVal_10, currVal_11, currVal_12, currVal_13); }); }
 function View_HeaderComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-header", [], null, null, null, View_HeaderComponent_0, RenderType_HeaderComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _header_component__WEBPACK_IMPORTED_MODULE_6__["HeaderComponent"], [_angular_router__WEBPACK_IMPORTED_MODULE_3__["Router"]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
 var HeaderComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-header", _header_component__WEBPACK_IMPORTED_MODULE_6__["HeaderComponent"], View_HeaderComponent_Host_0, {}, {}, []);
 
@@ -4688,28 +5050,40 @@ var RenderType_CrewsComponent = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵcr
 
 function View_CrewsComponent_1(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, [" Getting Crews...\n"]))], null, null); }
 function View_CrewsComponent_2(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "h1", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵted"](-1, null, ["Crews"]))], null, null); }
-function View_CrewsComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_CrewsComponent_3(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_CrewsComponent_5(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-crewitem", [], null, null, null, _crewitem_crewitem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["View_CrewitemComponent_0"], _crewitem_crewitem_component_ngfactory__WEBPACK_IMPORTED_MODULE_4__["RenderType_CrewitemComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _crewitem_crewitem_component__WEBPACK_IMPORTED_MODULE_5__["CrewitemComponent"], [], { crew: [0, "crew"] }, null)], function (_ck, _v) { var currVal_0 = _v.context.$implicit; _ck(_v, 1, 0, currVal_0); }, null); }
 function View_CrewsComponent_4(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 2, "div", [], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CrewsComponent_5)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](2, 278528, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgForOf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["IterableDiffers"]], { ngForOf: [0, "ngForOf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.crews; _ck(_v, 2, 0, currVal_0); }, null); }
-function View_CrewsComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
+function View_CrewsComponent_6(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-paginator", [], null, [[null, "onNextPage"], [null, "onPrevPage"], [null, "onFirstPage"], [null, "onLastPage"], [null, "onChangeLimit"]], function (_v, en, $event) { var ad = true; var _co = _v.component; if (("onNextPage" === en)) {
         var pd_0 = (_co.nextPage($event) !== false);
         ad = (pd_0 && ad);
     } if (("onPrevPage" === en)) {
         var pd_1 = (_co.prevPage($event) !== false);
         ad = (pd_1 && ad);
-    } if (("onChangeLimit" === en)) {
-        var pd_2 = (_co.changeLimit($event) !== false);
+    } if (("onFirstPage" === en)) {
+        var pd_2 = (_co.firstPage($event) !== false);
         ad = (pd_2 && ad);
-    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
+    } if (("onLastPage" === en)) {
+        var pd_3 = (_co.lastPage($event) !== false);
+        ad = (pd_3 && ad);
+    } if (("onChangeLimit" === en)) {
+        var pd_4 = (_co.changeLimit($event) !== false);
+        ad = (pd_4 && ad);
+    } return ad; }, _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_PaginatorComponent_0"], _layout_paginator_paginator_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_PaginatorComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _layout_paginator_paginator_component__WEBPACK_IMPORTED_MODULE_3__["PaginatorComponent"], [], { page: [0, "page"], itemsPerPage: [1, "itemsPerPage"], totalPages: [2, "totalPages"], totalDocs: [3, "totalDocs"], hasPrevPage: [4, "hasPrevPage"], hasNextPage: [5, "hasNextPage"] }, { onNextPage: "onNextPage", onPrevPage: "onPrevPage", onFirstPage: "onFirstPage", onLastPage: "onLastPage", onChangeLimit: "onChangeLimit" })], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.page; var currVal_1 = _co.itemsPerPage; var currVal_2 = _co.totalPages; var currVal_3 = _co.totalDocs; var currVal_4 = _co.hasPrevPage; var currVal_5 = _co.hasNextPage; _ck(_v, 1, 0, currVal_0, currVal_1, currVal_2, currVal_3, currVal_4, currVal_5); }, null); }
 function View_CrewsComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CrewsComponent_1)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CrewsComponent_2)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](3, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CrewsComponent_3)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](5, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CrewsComponent_4)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](7, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵand"](16777216, null, null, 1, null, View_CrewsComponent_6)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](9, 16384, null, 0, _angular_common__WEBPACK_IMPORTED_MODULE_6__["NgIf"], [_angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["TemplateRef"]], { ngIf: [0, "ngIf"] }, null)], function (_ck, _v) { var _co = _v.component; var currVal_0 = _co.loading; _ck(_v, 1, 0, currVal_0); var currVal_1 = (_co.crews && !_co.loading); _ck(_v, 3, 0, currVal_1); var currVal_2 = (_co.crews && !_co.loading); _ck(_v, 5, 0, currVal_2); var currVal_3 = (_co.crews && !_co.loading); _ck(_v, 7, 0, currVal_3); var currVal_4 = (_co.crews && !_co.loading); _ck(_v, 9, 0, currVal_4); }, null); }
 function View_CrewsComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-crews", [], null, null, null, View_CrewsComponent_0, RenderType_CrewsComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 245760, null, 0, _crews_component__WEBPACK_IMPORTED_MODULE_7__["CrewsComponent"], [apollo_angular__WEBPACK_IMPORTED_MODULE_8__["Apollo"]], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
 var CrewsComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-crews", _crews_component__WEBPACK_IMPORTED_MODULE_7__["CrewsComponent"], View_CrewsComponent_Host_0, {}, {}, []);
@@ -4774,12 +5148,11 @@ class CrewsComponent {
     constructor(apollo) {
         this.apollo = apollo;
         this.loading = true;
+        // pagination variables
+        this.page = 1;
         this.itemsPerPage = 5;
     }
     ngOnInit() {
-        if (!this.page) {
-            this.page = 1;
-        }
         this.querySubscription = this.apollo.watchQuery({
             query: CREWS_QUERY,
             variables: {
@@ -4799,11 +5172,30 @@ class CrewsComponent {
         this.hasNextPage = data.crews.hasNextPage;
         this.totalPages = data.crews.totalPages;
         this.totalDocs = data.crews.totalDocs;
+        if (this.page > this.totalPages) {
+            this.page = this.totalPages;
+            this.updateData();
+        }
+    }
+    updateData() {
+        this.loading = true;
+        this.querySubscription = this.apollo.watchQuery({
+            query: CREWS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.crews = data.crews.docs;
+            this.updatePaginatorValues(data);
+        });
     }
     changeLimit(newLimit) {
         this.itemsPerPage = newLimit;
         this.loading = true;
-        this.page = 1;
         this.querySubscription = this.apollo.watchQuery({
             query: CREWS_QUERY,
             variables: {
@@ -4838,6 +5230,40 @@ class CrewsComponent {
     prevPage() {
         this.loading = true;
         this.page--;
+        this.querySubscription = this.apollo.watchQuery({
+            query: CREWS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.crews = data.crews.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    firstPage() {
+        this.loading = true;
+        this.page = 1;
+        this.querySubscription = this.apollo.watchQuery({
+            query: CREWS_QUERY,
+            variables: {
+                page: this.page,
+                limit: this.itemsPerPage
+            }
+        })
+            .valueChanges
+            .subscribe(({ data, loading }) => {
+            this.loading = loading;
+            this.crews = data.crews.docs;
+            this.updatePaginatorValues(data);
+        });
+    }
+    lastPage() {
+        this.loading = true;
+        this.page = this.totalPages;
         this.querySubscription = this.apollo.watchQuery({
             query: CREWS_QUERY,
             variables: {
@@ -4898,7 +5324,10 @@ __webpack_require__.r(__webpack_exports__);
 var styles_AppComponent = [_app_component_scss_shim_ngstyle__WEBPACK_IMPORTED_MODULE_0__["styles"]];
 var RenderType_AppComponent = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵcrt"]({ encapsulation: 0, styles: styles_AppComponent, data: {} });
 
-function View_AppComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-header", [], null, null, null, _components_layout_header_header_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_HeaderComponent_0"], _components_layout_header_header_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_HeaderComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _components_layout_header_header_component__WEBPACK_IMPORTED_MODULE_3__["HeaderComponent"], [_angular_router__WEBPACK_IMPORTED_MODULE_4__["Router"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, null, 2, "div", [["class", "container"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](3, 16777216, null, null, 1, "router-outlet", [], null, null, null, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](4, 212992, null, 0, _angular_router__WEBPACK_IMPORTED_MODULE_4__["RouterOutlet"], [_angular_router__WEBPACK_IMPORTED_MODULE_4__["ChildrenOutletContexts"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ComponentFactoryResolver"], [8, null], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ChangeDetectorRef"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](5, 0, null, null, 1, "app-scroll-to-top", [], null, null, null, _components_layout_scroll_to_top_scroll_to_top_component_ngfactory__WEBPACK_IMPORTED_MODULE_5__["View_ScrollToTopComponent_0"], _components_layout_scroll_to_top_scroll_to_top_component_ngfactory__WEBPACK_IMPORTED_MODULE_5__["RenderType_ScrollToTopComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](6, 114688, null, 0, _components_layout_scroll_to_top_scroll_to_top_component__WEBPACK_IMPORTED_MODULE_6__["ScrollToTopComponent"], [], null, null)], function (_ck, _v) { _ck(_v, 1, 0); _ck(_v, 4, 0); _ck(_v, 6, 0); }, null); }
+function View_AppComponent_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-header", [], null, null, null, _components_layout_header_header_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["View_HeaderComponent_0"], _components_layout_header_header_component_ngfactory__WEBPACK_IMPORTED_MODULE_2__["RenderType_HeaderComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _components_layout_header_header_component__WEBPACK_IMPORTED_MODULE_3__["HeaderComponent"], [_angular_router__WEBPACK_IMPORTED_MODULE_4__["Router"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](2, 0, null, null, 2, "div", [["class", "container"]], null, null, null, null, null)), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](3, 16777216, null, null, 1, "router-outlet", [], null, null, null, null, null)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](4, 212992, null, 0, _angular_router__WEBPACK_IMPORTED_MODULE_4__["RouterOutlet"], [_angular_router__WEBPACK_IMPORTED_MODULE_4__["ChildrenOutletContexts"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ViewContainerRef"], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ComponentFactoryResolver"], [8, null], _angular_core__WEBPACK_IMPORTED_MODULE_1__["ChangeDetectorRef"]], null, null), (_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](5, 0, null, null, 1, "app-scroll-to-top", [], null, [["window", "scroll"]], function (_v, en, $event) { var ad = true; if (("window:scroll" === en)) {
+        var pd_0 = (_angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵnov"](_v, 6).onWindowScroll() !== false);
+        ad = (pd_0 && ad);
+    } return ad; }, _components_layout_scroll_to_top_scroll_to_top_component_ngfactory__WEBPACK_IMPORTED_MODULE_5__["View_ScrollToTopComponent_0"], _components_layout_scroll_to_top_scroll_to_top_component_ngfactory__WEBPACK_IMPORTED_MODULE_5__["RenderType_ScrollToTopComponent"])), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](6, 114688, null, 0, _components_layout_scroll_to_top_scroll_to_top_component__WEBPACK_IMPORTED_MODULE_6__["ScrollToTopComponent"], [], null, null)], function (_ck, _v) { _ck(_v, 1, 0); _ck(_v, 4, 0); _ck(_v, 6, 0); }, null); }
 function View_AppComponent_Host_0(_l) { return _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵvid"](0, [(_l()(), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵeld"](0, 0, null, null, 1, "app-root", [], null, null, null, View_AppComponent_0, RenderType_AppComponent)), _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵdid"](1, 114688, null, 0, _app_component__WEBPACK_IMPORTED_MODULE_7__["AppComponent"], [], null, null)], function (_ck, _v) { _ck(_v, 1, 0); }, null); }
 var AppComponentNgFactory = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵccf"]("app-root", _app_component__WEBPACK_IMPORTED_MODULE_7__["AppComponent"], View_AppComponent_Host_0, {}, {}, []);
 
