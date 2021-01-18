@@ -3756,9 +3756,15 @@ class HeaderComponent {
         this.logo_link = "assets/images/logo.png";
     }
     ngOnInit() {
-        this.router.events.subscribe(event => {
+        this.router.events.subscribe((event) => {
             if (event instanceof _angular_router__WEBPACK_IMPORTED_MODULE_0__["NavigationEnd"]) {
-                this.getLocation(event.url);
+                // Check if the user navigated to invalid url and redirected to '/'
+                if (event.url !== event.urlAfterRedirects) {
+                    this.getLocation(event.urlAfterRedirects);
+                }
+                else {
+                    this.getLocation(event.url);
+                }
             }
         });
         window.addEventListener('resize', this.setScreenWidth);
@@ -3772,7 +3778,7 @@ class HeaderComponent {
     getLocation(path) {
         const lastSlash = path.lastIndexOf('/');
         let url;
-        if (path === "/") {
+        if (path === "/" || path === "") {
             url = "overview";
         }
         else if (lastSlash > 0) {
